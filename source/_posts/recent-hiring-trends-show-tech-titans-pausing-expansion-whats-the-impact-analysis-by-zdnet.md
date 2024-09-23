@@ -1,7 +1,7 @@
 ---
 title: Recent Hiring Trends Show Tech Titans Pausing Expansion - What's the Impact? Analysis by ZDNET
-date: 2024-09-18 16:29:45
-updated: 2024-09-20 12:46:57
+date: 2024-09-17T16:13:58.244Z
+updated: 2024-09-23T16:06:07.257Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,40 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-becoming-a-pro-with-obs-gaming-recordings/"><u>[Updated] 2024 Approved Becoming a Pro with OBS Gaming Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cutting-edge-capture-top-10-windows-11-cam-recorders/"><u>[Updated] In 2024, Cutting-Edge Capture Top 10 Windows 11 Cam Recorders</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/100-innovadoras-propuestas-de-contenido-para-tu-canaleta-de-youtube/"><u>100 Innovadoras Propuestas De Contenido Para Tu Canaleta De Youtube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-efficient-techniques-for-moving-snapshot-to-photo-library/"><u>2024 Approved Efficient Techniques for Moving SnapShot to Photo Library</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>2024 Approved How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-realme-11-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Realme 11 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comparing-360-degree-captures-and-full-immersion-media/"><u>Comparing 360-Degree Captures and Full Immersion Media</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/comprehending-the-basics-of-whatsapp-calls-for-2024/"><u>Comprehending the Basics of WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/convertissez-gratuitement-vos-fichiers-m4r-au-format-ogg-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers M4R Au Format Ogg Avec Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/effortless-format-transformation-convert-ts-files-to-mp4-for-free-using-movavi/"><u>Effortless Format Transformation - Convert TS Files to MP4 for Free Using Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/enhancing-education-through-digital-tools-strategies-for-tech-savvy-learning-environments/"><u>Enhancing Education Through Digital Tools: Strategies for Tech-Savvy Learning Environments</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone XS Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/online-liberazione-video-da-dvb-a-wmv-gratis-con-convertitore-movavi/"><u>Online Liberazione Video Da DVB a WMV Gratis Con Convertitore - Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/record-your-computer-sounds-effortlessly-5-techniques-using-movavi-in-nineteen-twenty-four/"><u>Record Your Computer Sounds Effortlessly: 5 Techniques Using Movavi in Nineteen Twenty-Four</u></a></li>
+<li><a href="https://blog-min.techidaily.com/target-audience-of-the-apple-vision-pro-ar-headset-ideal-users-unveiled/"><u>Target Audience of the Apple Vision Pro AR Headset: Ideal Users Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-virtuosos-journey-transforming-zoom-live-streams-on-youtube-for-2024/"><u>The Virtuoso's Journey Transforming Zoom Live Streams on YouTube for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/top-12-premium-free-options-to-replace-adobe-lightroom-exploring-movavi-and-others/"><u>Top 12 Premium-Free Options to Replace Adobe Lightroom® - Exploring Movavi and Others</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/tre-semplici-passaggi-per-personalizzare-il-tuo-video-con-filtri-efficaci/"><u>Tre Semplici Passaggi per Personalizzare Il Tuo Video Con Filtri Efficaci</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavi-mp4wma/"><u>オンラインで自由に利用可能! Movavi MP4とWMAの高速変換ツール</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

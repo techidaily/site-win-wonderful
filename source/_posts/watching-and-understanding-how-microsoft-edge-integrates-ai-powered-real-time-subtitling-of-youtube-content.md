@@ -1,7 +1,7 @@
 ---
 title: "Watching and Understanding: How Microsoft Edge Integrates AI-Powered Real-Time Subtitling of YouTube Content"
-date: 2024-09-17 18:46:21
-updated: 2024-09-20 10:11:12
+date: 2024-09-18T16:10:27.852Z
+updated: 2024-09-23T16:35:16.507Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,35 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-exploring-the-best-tools-for-video-recording-a-bandicam-vs-camtasia-review/"><u>[New] 2024 Approved Exploring the Best Tools for Video Recording A Bandicam Vs Camtasia Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-channels-image-for-boosted-youtube-subscriptions/"><u>[Updated] 2024 Approved Elevate Your Channels' Image for Boosted YouTube Subscriptions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-blueprint-for-a-viral-solitary-audio-experience/"><u>[Updated] Blueprint for a Viral Solitary Audio Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-pathway-to-crafting-a-viral-video-introduction/"><u>2024 Approved The Pathway to Crafting a Viral Video Introduction</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/downloadable-mpg-avi-media-translator-at-no-cost-with-movavi/"><u>Downloadable MPG-AVI Media Translator at No Cost with Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/facilitar-a-conversao-de-videos-para-formato-mp3-usando-um-conversor-especifico-do-youtube/"><u>Facilitar a Conversão De Vídeos Para Formato Mp3 Usando Um Conversor Específico Do Youtube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freedomgpt-and-beyond-mastering-open-source-large-language-models-on-your-pc/"><u>FreedomGPT and Beyond: Mastering Open-Source Large Language Models on Your PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/m1-chip-unmasked-apples-engineering-feat/"><u>M1 Chip Unmasked Apple's Engineering Feat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-bypass-6-critical-prompt-mistakes-for-better-ai-interaction/"><u>Mastering ChatGPT: Bypass 6 Critical Prompt Mistakes for Better AI Interaction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-and-painless-ways-to-screen-record-stories/"><u>Quick & Painless Ways to Screen Record Stories</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-huawei-p60-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Huawei P60 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/transformation-facile-des-images-pbm-vers-bmp-avec-movavi-sans-depenser-un-centime/"><u>Transformation Facile Des Images PBM Vers BMP Avec Movavi, Sans Dépenser Un Centime!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/web-based-gratis-mpeg-vob-movavi/"><u>Web-Based Gratis MPEG VOB 변환 - Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/asf-avi-movavi/"><u>무료 인터넷으로 ASF 파일 및 AVI로 쉽게 전환하는 방법 – Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

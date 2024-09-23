@@ -1,7 +1,7 @@
 ---
 title: "Beyond Coding Simplification: The Transformative Role of Generative AI in Merging Low Code and No Code Realms | ZDNET"
-date: 2024-09-19 22:40:11
-updated: 2024-09-20 12:52:21
+date: 2024-09-17T16:29:11.324Z
+updated: 2024-09-23T16:25:24.814Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,32 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-capture-the-internets-attention-craft-with-kapwing-for-2024/"><u>[New] Capture the Internet’s Attention – Craft with Kapwing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-effortless-and-easy-video-snapshots-of-win11/"><u>[New] Effortless & Easy Video Snapshots of Win11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-masterful-fb-watching-essential-top-10-players/"><u>2024 Approved Masterful FB Watching Essential Top 10 Players</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-f15-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy F15 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/cambiar-archivo-de-pelicula-mov-a-mp4-online-sin-coste-alguno-moovavi/"><u>Cambiar Archivo De Película MOV a MP4 Online Sin Coste Alguno - Moovavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/convertissez-gratuitement-vos-fichiers-m4r-au-format-ogg-avec-movavi/"><u>Convertissez Gratuitement Vos Fichiers M4R Au Format Ogg Avec Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/cyclone-shaper-setup/"><u>Cyclone Shaper Setup</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1726218550175-movavi/"><u>Movavi 비디오 수정기: 가장 우아한 지원 형식에 대한 안내</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/record-your-computer-sounds-effortlessly-5-techniques-using-movavi-in-nineteen-twenty-four/"><u>Record Your Computer Sounds Effortlessly: 5 Techniques Using Movavi in Nineteen Twenty-Four</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-downloading-and-setting-up-realtek-usb-reader-drivers-in-windows/"><u>Step-by-Step Instructions for Downloading and Setting Up RealTek USB Reader Drivers in Windows</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/tre-semplici-passaggi-per-personalizzare-il-tuo-video-con-filtri-efficaci/"><u>Tre Semplici Passaggi per Personalizzare Il Tuo Video Con Filtri Efficaci</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
