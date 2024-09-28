@@ -1,7 +1,7 @@
 ---
 title: Will Microsoft Begin Fee-Based Support for Windows 10 Updates ? Estimated Cost Breakdown | ZDNet
-date: 2024-09-20T16:34:01.148Z
-updated: 2024-09-23T16:04:44.561Z
+date: 2024-09-21T04:27:31.710Z
+updated: 2024-09-28T04:27:50.727Z
 tags:
   - windows
 categories:
@@ -48,11 +48,25 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -60,31 +74,11 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -97,6 +91,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -104,10 +105,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -115,13 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -160,5 +154,26 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-playbook-for-exceptional-obs-studio-content/"><u>[New] The Ultimate Playbook for Exceptional OBS Studio Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-boosting-video-playback-rate-on-tiktok-for-2024/"><u>[Updated] Boosting Video Playback Rate on TikTok for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-in-action-building-dynamic-and-intelligent-websites/"><u>ChatGPT in Action: Building Dynamic and Intelligent Websites</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/direct-access-video-retriever-for-atandt-techchannels-effortless-downloads-from-attcomtechchannel/"><u>Direct Access Video Retriever for AT&T TechChannels: Effortless Downloads From att.com/techchannel</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/extract-and-save-your-buildamodule-content-as-mp4-or-avi-files/"><u>Extract and Save Your BuildAModule Content as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/fxstreet-resources-unlimited-access-your-desired-financial-webinars-and-live-streams/"><u>FXStreet Resources Unlimited: Access Your Desired Financial Webinars and Live Streams</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-clear-suggested-podcast-selections-in-spotify-for-2024/"><u>How To Clear Suggested Podcast Selections in Spotify for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-convert-and-save-tunes-from-amazon-music-library-as-mp3s-wav-files-or-aac-on-windows-and-mac-systems/"><u>How to Convert and Save Tunes From Amazon Music Library as MP3s, WAV Files, or AAC on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-create-physical-music-compilations-from-spotify-playlists-with-ease-burning-songs-to-cds/"><u>How To Create Physical Music Compilations From Spotify Playlists with Ease - Burning Songs to CDs</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-get-your-hands-on-video2brains-exclusive-course-videos-easy-download-tips/"><u>How To Get Your Hands on Video2Brain's Exclusive Course Videos - Easy Download Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 12 mini</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-updated-user-manual-for-navigating-facebook/"><u>In 2024, The Updated User Manual for Navigating Facebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-google-docs-transcription-your-complete-manual/"><u>In 2024, Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-reno-11f-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Reno 11F 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximize-playtime-effective-strategies-for-increasing-ps5-storage-space-efficiently/"><u>Maximize Playtime - Effective Strategies for Increasing PS5 Storage Space Efficiently</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/stream-or-download-movies-from-the-washington-post-in-various-formats-mp4-wmv-mov-flv-avi-compatible-with-windowsmac-systems/"><u>Stream or Download Movies From the Washington Post in Various Formats (MP4, WMV, MOV, FLV, AVI) Compatible with Windows/Mac Systems</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/the-ultimate-tutorial-on-downloading-youtube-content-for-editing-in-windows-movie-maker/"><u>The Ultimate Tutorial on Downloading YouTube Content for Editing in Windows Movie Maker</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unlock-expert-dentistry-education-easy-to-download-tutorials-from-dentalxp/"><u>Unlock Expert Dentistry Education: Easy-to-Download Tutorials From DentalXP</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

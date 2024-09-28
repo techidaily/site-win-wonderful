@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Color Selection: Using PowerToy's Color Picker Tool - A Step-by-Step Guide"
-date: 2024-09-18T16:25:53.140Z
-updated: 2024-09-23T16:10:43.840Z
+date: 2024-09-21T02:56:11.222Z
+updated: 2024-09-27T19:17:31.387Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,16 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -191,5 +179,22 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-comprehensively-reviewed-androids-lightroom-features-and-functions-for-2024/"><u>[New] Comprehensively Reviewed Android’s Lightroom Features & Functions for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-enhancing-audience-connection-through-android-and-ios-streams/"><u>[New] Enhancing Audience Connection Through Android & iOS Streams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-10-best-online-learning-sites-like-udemy/"><u>[New] In 2024, 10 Best Online Learning Sites Like Udemy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unveiling-the-best-practices-in-downloading-vimeo-videos/"><u>[Updated] In 2024, Unveiling the Best Practices in Downloading Vimeo Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-a56s-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo A56s 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/conversion-en-ligne-gratuite-dun-fichier-audio-aac-au-format-m4a-avec-laide-de-movavi/"><u>Conversion en Ligne Gratuite D'un Fichier Audio AAC Au Format M4A Avec L'aide De Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/denkvangerig-conversie-van-dng-naar-tiff-onlinegestuurd-and-vrijgevreesgratis-movavi/"><u>Denkvangerig Conversie Van DNG Naar TIFF - Onlinegestuurd & Vrijgevreesgratis - Movavi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rean-eminence-best-online-chefs-and-cooks-for-2024/"><u>Epicurean Eminence Best Online Chefs & Cooks for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/facilitar-a-conversao-de-videos-para-formato-mp3-usando-um-conversor-especifico-do-youtube/"><u>Facilitar a Conversão De Vídeos Para Formato Mp3 Usando Um Conversor Específico Do Youtube</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/hoelang-het-wegnemen-van-jouw-foto-de-meest-effectieve-methode-om-afbeeldingen-te-verkleinen/"><u>Hoelang Het Wegnemen Van Jouw Foto? De Meest Effectieve Methode Om Afbeeldingen Te Verkleinen</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavimp3vob/"><u>MOVAVIの無料スタイル：オンラインMP3とVOBデコード機能をご紹介！</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restored-windows-graphic-functions/"><u>Restored Windows Graphic Functions</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-shooting-and-tweaking-slow-mo-clips-on-ios-devices/"><u>Step-by-Step Guide: Shooting & Tweaking Slow Mo Clips on iOS Devices</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/transformation-facile-des-images-pbm-vers-bmp-avec-movavi-sans-depenser-un-centime/"><u>Transformation Facile Des Images PBM Vers BMP Avec Movavi, Sans Dépenser Un Centime!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unmatched-warfare-discovering-the-prime-7-total-war-battles/"><u>Unmatched Warfare Discovering the Prime 7 Total War Battles</u></a></li>
+</ul></div>
 

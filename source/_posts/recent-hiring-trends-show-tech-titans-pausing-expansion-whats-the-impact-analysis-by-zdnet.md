@@ -1,7 +1,7 @@
 ---
 title: Recent Hiring Trends Show Tech Titans Pausing Expansion - What's the Impact? Analysis by ZDNET
-date: 2024-09-17T16:13:58.244Z
-updated: 2024-09-23T16:06:07.257Z
+date: 2024-09-22T23:39:26.292Z
+updated: 2024-09-27T22:04:39.316Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-driving-engagement-on-instagram-strategy-for-successful-video-content-for-2024/"><u>[Updated] Driving Engagement on Instagram Strategy for Successful Video Content for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-ranked-5-mobile-backdrop-change-applications-iphone-x78/"><u>[Updated] In 2024, Best-Ranked 5 Mobile Backdrop Change Applications (iPhone X/7/8)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-heirloom-next-level-ai-conversations/"><u>ChatGPT's Heirloom: Next-Level AI Conversations</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/como-convertir-archivos-m4v-a-wmv-gratis-online-con-el-servicio-de-conversion-de-movavi/"><u>Cómo Convertir Archivos M4V a WMV Gratis Online Con El Servicio De Conversión De Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-video-posting-dilemmnas-which-way-for-2024/"><u>Facebook Video Posting Dilemmnas Which Way for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hassle-free-installation-of-elgato-drivers-get-started-now/"><u>Hassle-Free Installation of Elgato Drivers - Get Started Now!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/kunt-u-zonder-risico-vrije-mig-m4b-versieen-inmpaat-houden-door-zoeknaam-apparaat-konverter-movavi/"><u>Kunt U Zonder Risico Vrije Mig M4B-Versieën Inmpaat Houden Door Zoeknaam Apparaat Konverter - Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/online-liberazione-video-da-dvb-a-wmv-gratis-con-convertitore-movavi/"><u>Online Liberazione Video Da DVB a WMV Gratis Con Convertitore - Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-shooting-and-tweaking-slow-mo-clips-on-ios-devices/"><u>Step-by-Step Guide: Shooting & Tweaking Slow Mo Clips on iOS Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-codegpts-potential-inside-your-vs-code-workspace/"><u>Unlocking CodeGPT's Potential Inside Your VS Code Workspace</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-creative-potential-embedding-online-videos-in-slideshows-for-2024/"><u>Unlocking Creative Potential Embedding Online Videos in Slideshows for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
