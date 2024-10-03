@@ -1,7 +1,7 @@
 ---
 title: "Understanding Microsoft's New Privacy Concerns: Time for Humor or Tears? Insights From ZDNet"
-date: 2024-09-20T18:13:41.625Z
-updated: 2024-09-27T21:41:28.650Z
+date: 2024-09-27T02:48:12.765Z
+updated: 2024-10-02T16:31:09.616Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,28 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-external-microphones-to-elevate-film-quality-for-2024/"><u>[New] External Microphones to Elevate Film Quality for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-strategic-branding-techniques-for-higher-youtube-followings/"><u>[Updated] 2024 Approved Strategic Branding Techniques for Higher YouTube Followings</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/movavi-mp4-to-flv/"><u>「Movaviで簡単な無料オンラインビデオコンバート – MP4 to FLV」</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/mxfweb-movavi/"><u>完全無償でMXFを変換してくれるWebベースツール – Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/all-inclusive-answer-bank-for-common-inquiries-on-flipbuildercom/"><u>All-Inclusive Answer Bank for Common Inquiries on flipbuilder.com</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/analyzing-video-storage-efficiency-in-high-capacity-formats-64128gb-for-2024/"><u>Analyzing Video Storage Efficiency in High-Capacity Formats (64/128GB) for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/crea-video-flv-da-file-3gp-offline-e-gratuitamente-movavi/"><u>Crea Video FLV Da File 3GP Offline E Gratuitamente - Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/finding-clarity-in-colors-top-5-4k-monitors-showcased-for-2024/"><u>Finding Clarity in Colors Top 5 4K Monitors Showcased for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-budget-switch-console-clones/"><u>In 2024, Best Budget Switch Console Clones</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-common-icloud-challenges-expert-tips-for-ios-devices/"><u>Overcoming Common iCloud Challenges: Expert Tips for iOS Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/perfecting-screenshots-editing-vids-vertically-on-fcpx/"><u>Perfecting Screenshots Editing Vids Vertically on FCPX</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/quick-solutions-for-users-facing-pacifica-drive-launch-problems/"><u>Quick Solutions for Users Facing Pacifica Drive Launch Problems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-vr-films-that-you-should-never-miss/"><u>Top VR Films That You Should Never Miss</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/transformez-facilement-votre-fichier-audio-wav-en-flv-gratuitement-en-ligne-via-movavi/"><u>Transformez Facilement Votre Fichier Audio WAV en FLV Gratuitement en Ligne via Movavi</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-prime-downloader-tools-fb-videos-and-firefox-compatible/"><u>[New] 2024 Approved Prime Downloader Tools FB Videos & FireFox Compatible</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhance-youtube-livestreams-webcam-selection-mastery-for-2024/"><u>[New] Enhance YouTube Livestreams Webcam Selection Mastery for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-instagram-to-twitter-share-content-directly-no-rt/"><u>2024 Approved Instagram to Twitter Share Content Directly (No RT)</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/action-download-top-rated-screen-and-gameplay-capture-tool/"><u>Action Download: Top-Rated Screen & Gameplay Capture Tool</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/bing-chat-introduces-dark-mode-enable-the-update-with-ease-tech-insights/"><u>Bing Chat Introduces Dark Mode: Enable the Update with Ease | Tech Insights</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/capture-and-share-perfection-top-picks-for-ultimate-screen-capture-tools/"><u>Capture & Share Perfection: Top Picks for Ultimate Screen Capture Tools</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-unpacking-the-microsoft-exchange-server-cyberattack-insights-from-zdnet/"><u>Comprehensive Guide: Unpacking the Microsoft Exchange Server Cyberattack - Insights From ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/download-microsoft-office-for-free-a-complete-guide-tips-from-zdnet/"><u>Download Microsoft Office for Free: A Complete Guide - Tips From ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/exclusive-review-by-zdnet-robust-windowed-tablet-with-inbuilt-stylus-enhances-productivity-on-the-go/"><u>Exclusive Review by ZDNet: Robust Windowed Tablet with Inbuilt Stylus Enhances Productivity on the Go!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-a18-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo A18</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/o-use-creative-commons-copyright-licenses-in-2024/"><u>How to Use Creative Commons Copyright Licenses, In 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/introducing-the-new-era-of-functionality-with-splash-20-update/"><u>Introducing the New Era of Functionality with Splash 2.0 Update</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/microsoft-innovates-yet-again-new-customer-service-tactics-spark-debate-is-it-a-plot-twist-or-predictable/"><u>Microsoft Innovates Yet Again: New Customer Service Tactics Spark Debate – Is It a Plot Twist or Predictable?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-subnet-changes-in-win11/"><u>Navigating Subnet Changes in Win11</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-data-retrieval-app-recover-accidentally-erased-or-blocked-areas/"><u>Secure Data Retrieval App: Recover Accidentally Erased or Blocked Areas</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-10-youtube-download-apps-best-in-class-compatibility/"><u>Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
 

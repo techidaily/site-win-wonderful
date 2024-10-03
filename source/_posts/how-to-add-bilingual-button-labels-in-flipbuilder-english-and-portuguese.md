@@ -1,7 +1,7 @@
 ---
 title: How to Add Bilingual Button Labels in FlipBuilder (English & Portuguese)
-date: 2024-09-23T20:13:11.174Z
-updated: 2024-09-27T23:06:03.155Z
+date: 2024-09-28T10:17:45.572Z
+updated: 2024-10-02T20:09:40.842Z
 tags:
   - product
 categories:
@@ -91,13 +91,6 @@ Video Tutorial of Creating Page Flip eBook
 14. 13.Export and save settings for future uses.
 15. 14.Save and Load your project.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## II. Page-flipping multiple PDF eBook features
 
 With the page-flipping ebook you have created, your book readers will be able to:
@@ -126,10 +119,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![easy steps of convert pdf to ebook](https://www.flipbuilder.com/page-flip-ebook/images/steps_for_convert_pdf_to_digital_magazine.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Discount information
@@ -137,10 +130,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Flash Player Required
@@ -148,10 +141,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Refund Policy
@@ -159,6 +152,13 @@ With the page-flipping ebook you have created, your book readers will be able to
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,22 +175,20 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-sparking-viewers-interest-top-youtube-themes-for-channels/"><u>[New] 2024 Approved Sparking Viewers' Interest Top YouTube Themes for Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-charting-creative-trajectories-the-six-leading-nft-artists/"><u>[New] Charting Creative Trajectories The Six Leading NFT Artists</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aximizing-channel-potential-across-diverse-digital-venues/"><u>[New] Maximizing Channel Potential Across Diverse Digital Venues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-snap-the-truth-your-manual-to-authenticity-on-instagram/"><u>[Updated] 2024 Approved Snap the Truth Your Manual to Authenticity on Instagram</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>[Updated] Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhancing-video-appeal-20-premium-thumbnail-fonts-for-2024/"><u>[New] Enhancing Video Appeal 20 Premium Thumbnail Fonts for 2024</u></a></li>
 <li><a href="https://win-wonderful.techidaily.com/1-free-80s-classic-hits-video-collection-convert-and-download-in-multiple-formats-mp4-avi-mp3/"><u>1. Free 80'S Classic Hits Video Collection: Convert and Download in Multiple Formats (MP4, AVI, MP3)</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/action-download-top-rated-screen-and-gameplay-capture-tool/"><u>Action Download: Top-Rated Screen & Gameplay Capture Tool</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/download-content-from-camwhores-channel-a-user-friendly-guide/"><u>Download Content From CamWhores Channel: A User-Friendly Guide</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/extract-and-convert-vine-footage-to-multiple-video-types-mp4-wmv-mov-flv-avi-for-windows-and-mac-users/"><u>Extract and Convert Vine Footage to Multiple Video Types (MP4, WMV, MOV, FLV, AVI) for Windows and Mac Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/media-file-saver-pro-securely-transfer-your-old-vidsaudios-to-modern-formats-like-mp4-wmv-or-mp3/"><u>Media File Saver Pro: Securely Transfer Your Old Vids/Audios to Modern Formats Like MP4, WMV, or MP3!</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/movavi-clip-editor-simplified-video-editing-online/"><u>Movavi Clip Editor - Simplified Video Editing Online</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/nrk-tv-and-radio-content-download-in-high-quality-formats-mp4-wmv-avi-mp3-aac/"><u>NRK TV & Radio Content: Download in High-Quality Formats (MP4, WMV, AVI, MP3, AAC)</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-tutorial-how-to-download-and-transcode-buzzfeed-media-in-various-formats-on-windowsmac-systems/"><u>Step-by-Step Tutorial: How to Download and Transcode BuzzFeed Media in Various Formats on Windows/Mac Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/15-solutions-for-restoring-your-facetime-functionality/"><u>15 Solutions for Restoring Your FaceTime Functionality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-syma-x5c-the-ideal-drone-to-elevate-your-aerial-introduction/"><u>2024 Approved Syma X5C The Ideal Drone to Elevate Your Aerial Introduction</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harmonize-visual-and-auditory-elements-adding-filters-and-sound-to-windows-photos-app/"><u>Harmonize Visual & Auditory Elements Adding Filters & Sound to Windows Photos App</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-convert-and-save-tunes-from-amazon-music-library-as-mp3s-wav-files-or-aac-on-windows-and-mac-systems/"><u>How to Convert and Save Tunes From Amazon Music Library as MP3s, WAV Files, or AAC on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-create-physical-music-compilations-from-spotify-playlists-with-ease-burning-songs-to-cds/"><u>How To Create Physical Music Compilations From Spotify Playlists with Ease - Burning Songs to CDs</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-get-your-hands-on-video2brains-exclusive-course-videos-easy-download-tips/"><u>How To Get Your Hands on Video2Brain's Exclusive Course Videos - Easy Download Tips</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-successfully-download-clipfish-videos-a-step-by-step-guide/"><u>How to Successfully Download Clipfish Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-drone-innovations-today-and-their-imminent-breakthroughs/"><u>In 2024, Drone Innovations Today and Their Imminent Breakthroughs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/obs-and-wirecast-clash-which-tops-in-live-broadcasting/"><u>OBS and Wirecast Clash Which Tops in Live Broadcasting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-overcoming-steam-disk-errors-and-corruption/"><u>Quick Fixes for Overcoming Steam Disk Errors and Corruption</u></a></li>
 <li><a href="https://win-wonderful.techidaily.com/troubleshooting-mp4-video-insertion-issues-tips-and-tricks-for-seamless-integration-into-your-powerpoint-presentations/"><u>Troubleshooting MP4 Video Insertion Issues: Tips & Tricks for Seamless Integration Into Your PowerPoint Presentations</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-alternatives-to-gopro-quik-for-pc-video-editing-made-easy/"><u>Updated In 2024, Alternatives to GoPro Quik for PC Video Editing Made Easy</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-infinix-smart-7-hd-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Infinix Smart 7 HD Phone Network-Ready</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/voip-showdown-2023-does-vonage-reign-supreme-among-competitors/"><u>VoIP Showdown 2023: Does Vonage Reign Supreme Among Competitors?</u></a></li>
 </ul></div>
 

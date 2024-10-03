@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Impact of Generative AI on Coding Efficiency: Key Findings From Today's Top Programmers | ZDNET"
-date: 2024-09-21T17:40:15.149Z
-updated: 2024-09-27T23:37:01.572Z
+date: 2024-09-29T21:00:30.976Z
+updated: 2024-10-03T06:52:52.949Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +208,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevating-visual-storytelling-the-mavic-pro-journey/"><u>[New] 2024 Approved Elevating Visual Storytelling The Mavic Pro Journey</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-dynamic-backdrop-customization-in-teammate-windows-prepost-calls-for-2024/"><u>[New] Dynamic Backdrop Customization in Teammate Windows, Pre/Post Calls for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-elevate-engagement-posting-video-content-from-twitter-on-snapchat/"><u>[New] Elevate Engagement Posting Video Content From Twitter on Snapchat</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/movavivob-and-wma/"><u>「Movaviを使用してVOB & WMAファイルを自由に変換する方法」</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-effortless-guide-to-adding-banners-on-gaming-channels/"><u>2024 Approved Effortless Guide to Adding Banners on Gaming Channels</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/9-tipos-mais-populares-de-softwares-gratuitos-para-inserir-texto-em-videos-online-um-comparativo-detailado/"><u>9 Tipos Mais Populares De Softwares Gratuitos Para Inserir Texto Em Vídeos Online: Um Comparativo Detailado</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/free-online-converter-mov-to-wmv-by-movavi/"><u>Free Online Converter: MOV to WMV by Movavi</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-hdr-camera-match-up/"><u>In 2024, The Ultimate HDR Camera Match-Up</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-through-androids-brainpower-what-makes-the-system-so-clever/"><u>Navigating Through Android's Brainpower: What Makes the System So Clever?</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/online-free-gifmkv-movavi/"><u>오늘날은 Online-Free GIF/MKV 변환 - Movavi 사용자가치</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-getting-started-macbook-cam-recording-for-2024/"><u>[New] Getting Started MacBook Cam Recording for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-simplifying-snapchat-recording-for-smooth-experience/"><u>[New] In 2024, Simplifying Snapchat Recording for Smooth Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-open-world-opus-top-10-similar-video-games/"><u>[Updated] 2024 Approved Open World Opus Top 10 Similar Video Games</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-forge-strong-content-partnerships-on-youtube-for-2024/"><u>[Updated] How to Forge Strong Content Partnerships on YouTube for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/all-inclusive-answer-bank-for-common-inquiries-on-flipbuildercom/"><u>All-Inclusive Answer Bank for Common Inquiries on flipbuilder.com</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/crea-video-flv-da-file-3gp-offline-e-gratuitamente-movavi/"><u>Crea Video FLV Da File 3GP Offline E Gratuitamente - Movavi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-top-tech-pickings-from-toms-hardware-scoops/"><u>Discover Top Tech Pickings From Tom's Hardware Scoops</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/easy-guide-to-image-annotations-in-flipbuilder-create-interactive-digital-photo-albums/"><u>Easy Guide to Image Annotations in FlipBuilder - Create Interactive Digital Photo Albums</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-troubleshooting-guide-fixing-common-skype-connection-issues/"><u>Essential Troubleshooting Guide: Fixing Common Skype Connection Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/full-page-screen-capture-how-to-capture-screenshots-of-a-full-page/"><u>Full Page Screen Capture How to Capture Screenshots of a Full Page?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723262378177-grab-your-deal-alienwares-gaming-powerhouse-with-rtx-4070-and-i7-cpu-for-only-1499-originally-1699/"><u>Grab Your Deal: Alienware's Gaming Powerhouse with RTX 4070 & I7 CPU for Only $1,499 - Originally $1,699</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-s23plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy S23+ To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-add-bilingual-button-labels-in-flipbuilder-english-and-portuguese/"><u>How to Add Bilingual Button Labels in FlipBuilder (English & Portuguese)</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/integrating-a-call-now-icon-into-your-apps-toolbar-using-flipbuilder-methods/"><u>Integrating a 'Call Now' Icon Into Your App’s Toolbar Using FlipBuilder Methods</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/integrating-soundtracks-into-your-digital-flipbooks-an-expert-guide-with-flipbuildercom/"><u>Integrating Soundtracks Into Your Digital Flipbooks: An Expert Guide with FlipBuilder.com</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/resizing-and-rescaling-assistance-panels-in-flipbuilder-tips-and-tricks-for-optimization/"><u>Resizing and Rescaling Assistance Panels in FlipBuilder - Tips & Tricks for Optimization</u></a></li>
 </ul></div>
 

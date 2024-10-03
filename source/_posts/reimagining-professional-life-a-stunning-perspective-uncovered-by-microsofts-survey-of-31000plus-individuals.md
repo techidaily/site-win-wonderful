@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals"
-date: 2024-09-20T18:04:11.476Z
-updated: 2024-09-27T23:49:58.272Z
+date: 2024-09-25T17:57:14.276Z
+updated: 2024-10-03T07:09:13.826Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,27 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-media-script-synthesizer/"><u>[New] 2024 Approved Media Script Synthesizer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-fostering-fandoms-top-three-storytelling-techniques-for-2024/"><u>[New] Fostering Fandoms Top Three Storytelling Techniques for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/electing-the-best-free-melodies-for-your-youtube-video/"><u>[New] Selecting the Best Free Melodies for Your YouTube Video</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-navigating-youtubes-landscape-a-beginners-primer/"><u>[Updated] 2024 Approved Navigating YouTube's Landscape A Beginner's Primer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-precision-techniques-for-high-quality-overwatch-saves-for-2024/"><u>[Updated] Precision Techniques for High-Quality Overwatch Saves for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-the-secrets-to-stellar-sims-gameplay-recording/"><u>[Updated] Unlocking the Secrets to Stellar Sims Gameplay Recording</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/bing-chat-introduces-dark-mode-enable-the-update-with-ease-tech-insights/"><u>Bing Chat Introduces Dark Mode: Enable the Update with Ease | Tech Insights</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-unpacking-the-microsoft-exchange-server-cyberattack-insights-from-zdnet/"><u>Comprehensive Guide: Unpacking the Microsoft Exchange Server Cyberattack - Insights From ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/download-microsoft-office-for-free-a-complete-guide-tips-from-zdnet/"><u>Download Microsoft Office for Free: A Complete Guide - Tips From ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/exclusive-review-by-zdnet-robust-windowed-tablet-with-inbuilt-stylus-enhances-productivity-on-the-go/"><u>Exclusive Review by ZDNet: Robust Windowed Tablet with Inbuilt Stylus Enhances Productivity on the Go!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-foray-into-fashionable-mac-made-videos-for-youtube/"><u>First Foray Into Fashionable Mac-Made Videos for YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/microsoft-innovates-yet-again-new-customer-service-tactics-spark-debate-is-it-a-plot-twist-or-predictable/"><u>Microsoft Innovates Yet Again: New Customer Service Tactics Spark Debate – Is It a Plot Twist or Predictable?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategies-for-skyrocketing-youtube-followers/"><u>Strategies for Skyrocketing YouTube Followers</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/understanding-microsofts-new-privacy-concerns-time-for-humor-or-tears-insights-from-zdnet/"><u>Understanding Microsoft's New Privacy Concerns: Time for Humor or Tears? Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-video-vanishing-act-cutting-duration-on-youtube/"><u>[New] 2024 Approved Video Vanishing Act Cutting Duration on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry/"><u>[New] In 2024, GIF Genius Unleashed The Best Tools and Methods of Memetic Artistry</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mindful-moments-elite-yoga-routines-for-serenity/"><u>[Updated] Mindful Moments Elite Yoga Routines for Serenity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>2024 Approved The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
+<li><a href="https://video-capture.techidaily.com/civics-challenge-club-leading-political-gaming-series-for-2024/"><u>Civics Challenge Club Leading Political Gaming Series for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/creating-a-great-drivers-license-picture-in-2er-essential-strategies/"><u>Creating a Great Driver's License Picture in 2Er - Essential Strategies</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/customized-web-engagement-with-cookiebot-technology-integration/"><u>Customized Web Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/effective-methods-to-retrieve-icloud-backed-up-contact-information/"><u>Effective Methods to Retrieve iCloud Backed-Up Contact Information</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/effortless-mkv-to-sony-format-conversion-the-ultimate-guide-to-viewing-on-sony-televisions/"><u>Effortless MKV-to-Sony Format Conversion: The Ultimate Guide to Viewing on Sony Televisions</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/fix-windows-11-game-capture-issues-troubleshooting-and-workarounds/"><u>Fix Windows 11 Game Capture Issues: Troubleshooting and Workarounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-shopping-spree-to-stunning-video-haul-editing-explained-for-2024/"><u>From Shopping Spree to Stunning Video Haul Editing Explained for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/optimal-samsung-utilities-for-seamless-integration-on-windows-87vistaxp-systems/"><u>Optimal Samsung Utilities for Seamless Integration on Windows 8/7/Vista/XP Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/er-transcriber-platform-video-to-writing/"><u>Premier Transcriber Platform Video to Writing</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/seamless-song-shifting-effortless-methods-for-relocating-music-onto-an-sd-card/"><u>Seamless Song Shifting: Effortless Methods for Relocating Music Onto an SD Card</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x50iplus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X50i+ to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/top-rated-complimentary-watermarking-tools-on-the-play-store-best-picks/"><u>Top Rated Complimentary Watermarking Tools on the Play Store: Best Picks</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-how-to-erase-songs-efficiently-on-your-iphone/"><u>Ultimate Guide: How to Erase Songs Efficiently on Your iPhone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-how-to-project-zoom-conferences-onto-your-tv-screen/"><u>Ultimate Guide: How to Project Zoom Conferences Onto Your TV Screen</u></a></li>
 </ul></div>
 

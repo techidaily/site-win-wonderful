@@ -1,7 +1,7 @@
 ---
 title: Is the Keychron Q5 Worth It? A Detailed Examination of Performance Vs. Cost for High-End Tech Enthusiasts
-date: 2024-09-25T18:20:17.971Z
-updated: 2024-09-27T22:23:21.330Z
+date: 2024-09-30T08:29:13.557Z
+updated: 2024-10-02T18:53:07.856Z
 tags:
   - office-furniture
 categories:
@@ -52,13 +52,6 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** recommends
 
 [The best mechanical keyboards: From mini to macros Mechanical keyboards have become one of the fastest-growing areas of gaming and PC peripherals.  Read now](https://www.zdnet.com/article/best-mechanical-keyboard/)
@@ -68,10 +61,10 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fdc8402-4415-4c4e-8c7a-91981e5ad8e0%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keyboard software
@@ -81,10 +74,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -104,10 +97,10 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
@@ -115,6 +108,13 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
 
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternatives to consider
 
@@ -156,20 +156,21 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-compelling-narratives-with-strategic-youtube-banners/"><u>[New] In 2024, Crafting Compelling Narratives with Strategic YouTube Banners</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-experts-guide-to-interactive-instagram-stories-polling/"><u>[New] The Expert's Guide to Interactive Instagram Stories Polling</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-spot-fake-followers-on-facebook-for-marketers/"><u>[Updated] How to Spot Fake Followers on Facebook for Marketers</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1-say-goodbye-to-messy-inboxes-with-a-simple-strategy-manage-and-organize-without-extra-emails/"><u>1. Say Goodbye to Messy Inboxes with a Simple Strategy: Manage and Organize Without Extra Emails!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-a-close-look-at-dji-phantom-3s-high-end-capabilities/"><u>2024 Approved A Close Look at DJI Phantom 3'S High-End Capabilities</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/automate-your-spreadsheet-skills-using-chatgpt-for-excel-formulas-essential-tips-from-techexperts/"><u>Automate Your Spreadsheet Skills Using ChatGPT for Excel Formulas - Essential Tips From TechExperts</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/beyond-coding-simplification-the-transformative-role-of-generative-ai-in-merging-low-code-and-no-code-realms-zdnet/"><u>Beyond Coding Simplification: The Transformative Role of Generative AI in Merging Low Code and No Code Realms | ZDNET</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-how-fast-and-responsive-ram-influences-system-efficiency/"><u>Exploring How Fast and Responsive RAM Influences System Efficiency</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Without Passcode?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-through-tiktoks-video-palettes-for-2024/"><u>Navigating Through TikTok's Video Palettes for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/the-dual-nature-of-microsofts-copilot-efficient-ai-support-meets-strategic-marketing-push-decoded-by-zdnet/"><u>The Dual Nature of Microsoft’s Copilot: Efficient AI Support Meets Strategic Marketing Push - Decoded by ZDNET</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/the-rise-of-prysm-a-revolutionary-contender-against-microsoft-teams-and-zoom-with-lip-reading-capabilities/"><u>The Rise of Prysm: A Revolutionary Contender Against Microsoft Teams & Zoom, with Lip-Reading Capabilities</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/top-ranking-surface-computers-in-depth-analysis-and-comparison-by-tech-experts-zdnet/"><u>Top-Ranking Surface Computers : In-Depth Analysis & Comparison by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-insiders-look-at-effective-in-game-video-documentation/"><u>[New] In 2024, Insider's Look at Effective In-Game Video Documentation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selective-blur-for-enhanced-privacy-measures/"><u>[New] Selective Blur for Enhanced Privacy Measures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-greatest-kid-friendly-flying-toys-summary/"><u>[Updated] Greatest Kid-Friendly Flying Toys Summary</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavi-mp4-to-flv/"><u>「Movaviで簡単な無料オンラインビデオコンバート – MP4 to FLV」</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mxfweb-movavi/"><u>完全無償でMXFを変換してくれるWebベースツール – Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavi-m4a/"><u>網路版Movavi M4A無需付費預下載 - 提高音質的線上選擇</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/all-inclusive-answer-bank-for-common-inquiries-on-flipbuildercom/"><u>All-Inclusive Answer Bank for Common Inquiries on flipbuilder.com</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr-for-2024/"><u>Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR) for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/cracking-the-code-printer-error-x97/"><u>Cracking the Code: Printer Error X97</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/crea-video-flv-da-file-3gp-offline-e-gratuitamente-movavi/"><u>Crea Video FLV Da File 3GP Offline E Gratuitamente - Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/easy-guide-to-image-annotations-in-flipbuilder-create-interactive-digital-photo-albums/"><u>Easy Guide to Image Annotations in FlipBuilder - Create Interactive Digital Photo Albums</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722865646492-how-to-restore-missed-email-delivery-on-yahoo-mail-services-effectively/"><u>How To Restore Missed Email Delivery on Yahoo Mail Services Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-meizu-21-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Meizu 21 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-sharp-4k-top-10-mirrorless-cameras/"><u>In 2024, Mastering Sharp 4K Top 10 Mirrorless Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pro-camera-addons-buyers-insider-guide/"><u>Pro-Camera Addons Buyer's Insider Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/transformez-facilement-votre-fichier-audio-wav-en-flv-gratuitement-en-ligne-via-movavi/"><u>Transformez Facilement Votre Fichier Audio WAV en FLV Gratuitement en Ligne via Movavi</u></a></li>
 </ul></div>
 

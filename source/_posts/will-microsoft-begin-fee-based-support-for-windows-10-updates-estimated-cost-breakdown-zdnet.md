@@ -1,7 +1,7 @@
 ---
 title: Will Microsoft Begin Fee-Based Support for Windows 10 Updates ? Estimated Cost Breakdown | ZDNet
-date: 2024-09-21T04:27:31.710Z
-updated: 2024-09-28T04:27:50.727Z
+date: 2024-09-30T04:02:51.408Z
+updated: 2024-10-03T07:59:14.647Z
 tags:
   - windows
 categories:
@@ -48,13 +48,6 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,10 +55,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -73,6 +66,13 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -91,13 +91,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -105,10 +98,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -116,6 +109,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,24 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-playbook-for-exceptional-obs-studio-content/"><u>[New] The Ultimate Playbook for Exceptional OBS Studio Content</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-boosting-video-playback-rate-on-tiktok-for-2024/"><u>[Updated] Boosting Video Playback Rate on TikTok for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-in-action-building-dynamic-and-intelligent-websites/"><u>ChatGPT in Action: Building Dynamic and Intelligent Websites</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/direct-access-video-retriever-for-atandt-techchannels-effortless-downloads-from-attcomtechchannel/"><u>Direct Access Video Retriever for AT&T TechChannels: Effortless Downloads From att.com/techchannel</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/extract-and-save-your-buildamodule-content-as-mp4-or-avi-files/"><u>Extract and Save Your BuildAModule Content as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/fxstreet-resources-unlimited-access-your-desired-financial-webinars-and-live-streams/"><u>FXStreet Resources Unlimited: Access Your Desired Financial Webinars and Live Streams</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-clear-suggested-podcast-selections-in-spotify-for-2024/"><u>How To Clear Suggested Podcast Selections in Spotify for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-convert-and-save-tunes-from-amazon-music-library-as-mp3s-wav-files-or-aac-on-windows-and-mac-systems/"><u>How to Convert and Save Tunes From Amazon Music Library as MP3s, WAV Files, or AAC on Windows and Mac Systems</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-create-physical-music-compilations-from-spotify-playlists-with-ease-burning-songs-to-cds/"><u>How To Create Physical Music Compilations From Spotify Playlists with Ease - Burning Songs to CDs</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-get-your-hands-on-video2brains-exclusive-course-videos-easy-download-tips/"><u>How To Get Your Hands on Video2Brain's Exclusive Course Videos - Easy Download Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 12 mini</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-updated-user-manual-for-navigating-facebook/"><u>In 2024, The Updated User Manual for Navigating Facebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-google-docs-transcription-your-complete-manual/"><u>In 2024, Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-reno-11f-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo Reno 11F 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/maximize-playtime-effective-strategies-for-increasing-ps5-storage-space-efficiently/"><u>Maximize Playtime - Effective Strategies for Increasing PS5 Storage Space Efficiently</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/stream-or-download-movies-from-the-washington-post-in-various-formats-mp4-wmv-mov-flv-avi-compatible-with-windowsmac-systems/"><u>Stream or Download Movies From the Washington Post in Various Formats (MP4, WMV, MOV, FLV, AVI) Compatible with Windows/Mac Systems</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/the-ultimate-tutorial-on-downloading-youtube-content-for-editing-in-windows-movie-maker/"><u>The Ultimate Tutorial on Downloading YouTube Content for Editing in Windows Movie Maker</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/unlock-expert-dentistry-education-easy-to-download-tutorials-from-dentalxp/"><u>Unlock Expert Dentistry Education: Easy-to-Download Tutorials From DentalXP</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-enhanced-visual-customization-missing-in-win11/"><u>[Fixed] Enhanced Visual Customization Missing in Win11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-privacy-purposed-selecting-best-insta-watchers-for-2024/"><u>[Updated] Privacy-Purposed Selecting Best Insta Watchers for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-download-free-mp4-converter-tool-for-windows-live-movie-captioning/"><u>1. 'Download Free MP4 Converter Tool for Windows Live Movie Captioning'</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-apowersoft-launches-comprehensive-new-gif-editing-tool/"><u>1. Apowersoft Launches Comprehensive New GIF Editing Tool</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/htaking-lyric-videos-made-easy-by-lyric-video-maker-for-2024/"><u>Breathtaking Lyric Videos Made Easy by Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/launch-of-latest-streaming-audio-recorder-version-270-now-available/"><u>Launch of Latest Streaming Audio Recorder Version 2.7.0 Now Available</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-flip-and-rotate-3gp-videos-for-free-best-options-reviewed/"><u>New Flip and Rotate 3GP Videos for Free Best Options Reviewed</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/quick-and-effortless-anime-music-video-amv-creator-simple-video-to-amv-transformation/"><u>Quick & Effortless Anime Music Video (AMV) Creator – Simple Video-to-AMV Transformation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/reducing-sound-interference-in-video-meetings-for-2024/"><u>Reducing Sound Interference in Video Meetings for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-persistent-dark-screen-issue-in-fortnite-for-pc-users/"><u>Resolving the Persistent Dark Screen Issue in Fortnite for PC Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshoot-your-ios-tvremote-app-a-comprehensive-fixing-guide/"><u>Troubleshoot Your iOS TVRemote App - A Comprehensive Fixing Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-to-correctly-address-the-failed-to-download-data-0x8024a105-problem-on-your-pc/"><u>Troubleshooting Tips to Correctly Address the 'Failed To Download Data' (0X8024A105) Problem on Your PC</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-top-5-software-solutions-for-quickly-cleaning-up-photos-by-eliminating-distracting-objects/"><u>Ultimate Guide: Top 5 Software Solutions for Quickly Cleaning Up Photos by Eliminating Distracting Objects</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/online-free-gifmkv-movavi/"><u>오늘날은 Online-Free GIF/MKV 변환 - Movavi 사용자가치</u></a></li>
 </ul></div>
 

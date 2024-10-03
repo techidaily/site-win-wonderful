@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Innovates Yet Again: New Customer Service Tactics Spark Debate – Is It a Plot Twist or Predictable?"
-date: 2024-09-24T18:56:22.382Z
-updated: 2024-09-27T16:24:58.713Z
+date: 2024-09-28T05:37:10.807Z
+updated: 2024-10-03T10:16:35.217Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,14 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>[New] 2024 Approved Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/mp4-3gp-movavi/"><u>網路直接自由下載 MP4 到 3GP - 使用 Movavi 優化的影片格式轉換工具</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/aviswf-movavi/"><u>効果的なオンライン無料AVIからSWFへの直接変換ツール - Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/avaliacao-comparativa-dos-melhores-aplicativos-de-fala-para-202c-opcoes-livres-e-premium/"><u>Avaliação Comparativa Dos Melhores Aplicativos De Fala Para 202C [Opções Livres E Premium]</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/como-usar-la-herramienta-de-union-de-imagenes-en-movavi-solucion-completa/"><u>Cómo Usar La Herramienta De Unión De Imágenes en Movavi - Solución Completa</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-resident-evil-village-pc-performance-problems-expert-solutions-revealed/"><u>Fixing Resident Evil Village PC Performance Problems: Expert Solutions Revealed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/transforming-your-camera-images-into-an-engaging-flipslider-showcase-using-flipbuilder/"><u>Transforming Your Camera Images Into an Engaging FlipSlider Showcase Using FlipBuilder</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voice-activation-for-chatgpt-android-edition/"><u>Voice Activation for ChatGPT – Android Edition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-nba-experience-top-15-ways-to-watch-games-online/"><u>[New] The Ultimate NBA Experience - Top 15 Ways to Watch Games Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-creating-immersive-iphone-video-content/"><u>[Updated] In 2024, Creating Immersive iPhone Video Content</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/"><u>ANNUALEMENT, ABBYY Intègre Deux Personnalités Prestigieuses À Son Organe Dirigeant</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/can-flipbuilder-facilitate-the-shift-from-traditional-text-pages-to-interactive-electronic-magazines/"><u>Can FlipBuilder Facilitate the Shift From Traditional Text Pages to Interactive Electronic Magazines?</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/copying-additional-media-content-across-web-pages-with-flipbuilder-step-by-step-tutorial/"><u>Copying Additional Media Content Across Web Pages with FlipBuilder - Step by Step Tutorial</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/creating-effective-bookmarks-in-your-ebook-with-flipbuilder-a-comprehensive-guide/"><u>Creating Effective Bookmarks in Your eBook with FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/easy-steps-for-adding-translation-features-in-flipbooks-using-flipbuilder-platform/"><u>Easy Steps for Adding Translation Features In Flipbooks Using FlipBuilder Platform</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/enhancing-readability-enabling-the-magnification-function-on-flipbooks-via-flipbuilder-for-crystal-clear-viewing/"><u>Enhancing Readability - Enabling the Magnification Function on Flipbooks via FlipBuilder for Crystal Clear Viewing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-hot-30i-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Hot 30i on Mac?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-voice-input-problems-for-counter-strike-global-offensive-players/"><u>Resolving Voice Input Problems for Counter-Strike Global Offensive Players</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/seamless-transformation-from-pdf-to-stunning-flipbook-your-ultimate-guide-on-flipbuildercom/"><u>Seamless Transformation From PDF to Stunning FlipBook - Your Ultimate Guide on FlipBuilder.com</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seo-for-podcasts-ultimate-guide-to-boost-your-podcast-rankings/"><u>SEO for Podcasts - Ultimate Guide To Boost Your Podcast Rankings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-vivo-y200e-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo Y200e 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Embracing the Hybrid Workplace: Microsoft Launches Innovative Accessories for Modern Workflows - Insights From ZDNet"
-date: 2024-09-24T03:24:39.581Z
-updated: 2024-09-28T05:21:22.213Z
+date: 2024-09-27T19:51:48.056Z
+updated: 2024-10-03T07:22:23.448Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -95,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -135,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-live-streaming-simplified-with-top-webcam-recorders/"><u>[New] Live Streaming Simplified with Top WebCam Recorders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-fusionflicker-compiling-media-on-sierra-screens/"><u>[Updated] 2024 Approved FusionFlicker Compiling Media on Sierra Screens</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-an-engaging-review-vlog-for-everyday-items/"><u>[Updated] Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-quest-for-the-ultimate-virtual-world-starts-here-htc-vive/"><u>[Updated] The Quest for the Ultimate Virtual World Starts Here HTC Vive</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/movavivob-and-wma/"><u>「Movaviを使用してVOB & WMAファイルを自由に変換する方法」</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-implementing-auto-captions-in-reels/"><u>2024 Approved Step-by-Step Implementing Auto Captions in Reels</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/9-tipos-mais-populares-de-softwares-gratuitos-para-inserir-texto-em-videos-online-um-comparativo-detailado/"><u>9 Tipos Mais Populares De Softwares Gratuitos Para Inserir Texto Em Vídeos Online: Um Comparativo Detailado</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/aviswf-movavi/"><u>効果的なオンライン無料AVIからSWFへの直接変換ツール - Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/avaliacao-comparativa-dos-melhores-aplicativos-de-fala-para-202c-opcoes-livres-e-premium/"><u>Avaliação Comparativa Dos Melhores Aplicativos De Fala Para 202C [Opções Livres E Premium]</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/como-usar-la-herramienta-de-union-de-imagenes-en-movavi-solucion-completa/"><u>Cómo Usar La Herramienta De Unión De Imágenes en Movavi - Solución Completa</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-the-nintendo-switch-a-cut-above-the-rest-for-mobile-players/"><u>Expert Evaluation of the Nintendo Switch: A Cut Above the Rest for Mobile Players</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/free-online-converter-mov-to-wmv-by-movavi/"><u>Free Online Converter: MOV to WMV by Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-s24plus-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy S24+ Phone Screen?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-14-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 14 Plus SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/mastering-cross-platform-sharing-integrating-google-quick-share-for-windows-to-android-file-exchange/"><u>Mastering Cross-Platform Sharing: Integrating Google Quick Share for Windows to Android File Exchange</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/mastering-the-art-of-color-selection-using-powertoys-color-picker-tool-a-step-by-step-guide/"><u>Mastering the Art of Color Selection: Using PowerToy's Color Picker Tool - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/revive-your-silent-companion-the-touchpad/"><u>Revive Your Silent Companion - The Touchpad</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-spark-go-2024-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Spark Go (2024) FRP Bypass</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/online-free-gifmkv-movavi/"><u>오늘날은 Online-Free GIF/MKV 변환 - Movavi 사용자가치</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-revelations-on-identifying-outstanding-film-making-talents/"><u>[New] 2024 Approved Revelations on Identifying Outstanding Film Making Talents</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audio-outliers-best-sound-distortion-apps-for-your-device/"><u>[Updated] 2024 Approved Audio Outliers Best Sound Distortion Apps for Your Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-the-novices-guide-to-building-a-youtube-studio-setup/"><u>[Updated] In 2024, The Novice's Guide to Building a YouTube Studio Setup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-media-player-pc-and-tablet-edition/"><u>2024 Approved Optimal Media Player (PC & Tablet Edition)</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-access-denied-windows-issues-quickly-and-efficiently/"><u>Fixing Access Denied Windows Issues Quickly and Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-shield-your-artwork-from-generative-ai-using-nightshade-methods/"><u>Guide to Shield Your Artwork From Generative AI Using Nightshade Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stability-mastery-three-secrets-for-iphone-video-perfection/"><u>In 2024, Stability Mastery Three Secrets for iPhone Video Perfection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-focus-the-ultimate-list-of-chatgpt-cues-to-overcome-digital-interference/"><u>Mastering Focus: The Ultimate List of ChatGPT Cues to Overcome Digital Interference</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/perfect-guide-to-matching-your-spotify-tracks-and-playslists-with-musicbee/"><u>Perfect Guide to Matching Your Spotify Tracks and Playslists with MusicBee</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/rai-tv-video-grabber-seamless-raitv-content-acquisition-for-shows-and-films/"><u>Rai TV Video Grabber - Seamless Rai.tv Content Acquisition for Shows and Films</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-converting-huffpost-video-content-into-mp4-or-avi-format-for-pcs-and-mac/"><u>Step-by-Step Guide: Converting HuffPost Video Content Into MP4 or AVI Format for PCs & Mac</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-downloading-blizzcon-footage-as-mp4mov-files-on-macos-and-windows-systems/"><u>Step-by-Step Guide: Downloading BlizzCon Footage as MP4/MOV Files on macOS & Windows Systems</u></a></li>
 </ul></div>
 

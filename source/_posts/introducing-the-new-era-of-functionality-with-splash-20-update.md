@@ -1,7 +1,7 @@
 ---
 title: Introducing the New Era of Functionality with Splash 2.0 Update
-date: 2024-09-27T00:59:02.278Z
-updated: 2024-09-27T16:49:03.093Z
+date: 2024-09-27T05:19:57.605Z
+updated: 2024-10-03T07:37:56.667Z
 tags:
   - product
 categories:
@@ -41,16 +41,17 @@ Windows Vista, 7, 8, 8.1, 10, 11
 | Hardware accelerated decoding | HEVC/H.265 MPEG-4 AVC/H.264 MPEG-2 SMPTE VC-1 DivX WMV                                                                   | ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) ![AMD Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_amd.png) \- \- | \- ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) ![Broadcom Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_br.png) | ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) ![Intel Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_intel.png) \- \- | ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) ![NVIDIA Acceleration support icon](https://mirillis.com/res/old/media/images/product/splash/ico_nvidia.png) \- \- |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 | Software decoding             | HEVC/H.265 MPEG-4 AVC/H.264 MPEG-1 / MPEG-2 SMPTE VC-1 DivX (with DivX codec installed) DV (with DV codec installed) WMV |                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
   
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Supported** audio playback
 
 | Software decoding      | AC-3, MPEG Layer I/II, AAC LC, HE-AAC, LPCM, Vorbis, FLAC, WMA |
@@ -58,6 +59,14 @@ Windows Vista, 7, 8, 8.1, 10, 11
 | SPDIF / HDMI Bitstream | AC-3, LPCM, HD Audio Codecs                                    |
   
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Supported** formats
 
 | Video files    | AVI, M2T, MTS, M2TS, MKV, MKA, MOV, MP4, MPG, TS, M4V, VOB, DIVX, XVID, WMV, MBT |
@@ -69,10 +78,10 @@ Windows Vista, 7, 8, 8.1, 10, 11
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Picture2** \- advanced image post-processing
@@ -96,19 +105,6 @@ Windows Vista, 7, 8, 8.1, 10, 11
   
   
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Camcorder** features
 
 | Full AVCHD format support |
@@ -127,10 +123,10 @@ Windows Vista, 7, 8, 8.1, 10, 11
   
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Digital** TV
@@ -153,24 +149,18 @@ Windows Vista, 7, 8, 8.1, 10, 11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-ad-videos-made-easy-utilize-free-video-making-kit/"><u>[New] 2024 Approved FB Ad Videos Made Easy Utilize Free Video-Making Kit</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-smart-shelfings-leading-frame-apps-of-the-future/"><u>[New] Smart Shelfings Leading Frame Apps of the Future</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-vidvault-seamless-techniques-for-securing-tweeted-videos-for-2024/"><u>[New] VidVault Seamless Techniques for Securing Tweeted Videos for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-virtual-arena-transcript/"><u>[Updated] Virtual Arena Transcript</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-converting-and-downloading-your-favorite-acast-podcasts-in-various-audio-formats/"><u>Comprehensive Guide: Converting and Downloading Your Favorite Acast Podcasts in Various Audio Formats</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/convert-itpro-tv-educational-videos-into-various-formats-mp4-mov-mp3-wav-for-pc-and-mac-users/"><u>Convert ITPro TV Educational Videos Into Various Formats (MP4, MOV, MP3, WAV) for PC and Mac Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-official-msi-audio-driver-pack-for-optimal-sound-performance-on-windows-devices/"><u>Download Official MSI Audio Driver Pack for Optimal Sound Performance on Windows Devices</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/download-smoothly-with-videoweed-master-cross-platform-macwindows-support/"><u>Download Smoothly with VideoWeed Master – Cross-Platform Mac/Windows Support</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-lenovo-yoga-a940-experience/"><u>Expert Insights on the Lenovo Yoga A940 Experience</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/free-converter-transform-pdf-files-into-interactive-powerpoint-presentations-on-flipbuilder/"><u>Free Converter: Transform PDF Files Into Interactive PowerPoint Presentations on FlipBuilder</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-13-pro-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 13 Pro 5Gwith/without a PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-embed-clickable-urls-into-your-flipbook-design-with-flipbuilder/"><u>How to Embed Clickable URLs Into Your Flipbook Design with FlipBuilder</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-insert-print-ready-sections-on-interactive-pages-with-easywebtools/"><u>How to Insert Print-Ready Sections on Interactive Pages with EasyWebTools</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/saving-setup-configurations-for-next-time-when-making-a-flipbook-with-flipbuilder/"><u>Saving Setup Configurations for Next Time When Making a FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-incorporating-audio-elements-into-your-language-learning-textbook-pages-with-flipbuilder/"><u>Step-by-Step Guide: Incorporating Audio Elements Into Your Language Learning Textbook Pages with FlipBuilder</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/turn-pdf-documents-into-searchable-editable-text-while-preserving-page-design-for-free-learn-how-with-flipbuildercom/"><u>Turn PDF Documents Into Searchable, Editable Text While Preserving Page Design for Free [Learn How with FlipBuilder.com]</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-the-mirari-childrens-alarm-clock-that-ticks-all-boxes/"><u>Unboxing & Review: The Mirari Children's Alarm Clock That Ticks All Boxes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-intelligence-at-home-how-home-assistant-elevates-smart-living/"><u>Unleashing Intelligence at Home: How Home Assistant Elevates Smart Living</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-record-gameplay-with-obs/"><u>[New] 2024 Approved How to Record Gameplay with OBS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-maximize-your-cam-flagship-gear-with-ease/"><u>[Updated] Maximize Your Cam Flagship Gear with Ease</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-youtube-thumbnails-for-better-clickthrough-rates/"><u>2024 Approved Optimizing YouTube Thumbnails for Better Clickthrough Rates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/efficient-techniques-for-batch-deleting-photos-from-iphones-models-8plusx-learn-the-fastest-way/"><u>Efficient Techniques for Batch-Deleting Photos From iPhones (Models 8/Plus/X) – Learn the Fastest Way!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/how-to-resurrect-overlooked-nvidiaamd-on-computer/"><u>How To Resurrect Overlooked NVIDIA/AMD on Computer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/huge-discount-buy-the-macbook-air-m3-at-its-all-time-lowest-price/"><u>Huge Discount: Buy the MacBook Air M3 at Its All-Time Lowest Price!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-uncover-linguistic-groan-phenomenon/"><u>New Uncover Linguistic Groan Phenomenon</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reconfiguring-your-macs-command-keys-a-step-by-step-guide/"><u>Reconfiguring Your Mac's Command Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reimagining-professional-life-a-stunning-perspective-uncovered-by-microsofts-survey-of-31000plus-individuals/"><u>Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphones-silent-messages-problem-discover-16-effective-tips/"><u>Solve iPhone's Silent Messages Problem: Discover 16 Effective Tips</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-instructions-for-creating-personalized-email-footers-in-outlook-learn-how-with-zdnet/"><u>Step-by-Step Instructions for Creating Personalized Email Footers in Outlook – Learn How with ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/the-dual-nature-of-microsofts-copilot-efficient-ai-support-meets-strategic-marketing-push-decoded-by-zdnet/"><u>The Dual Nature of Microsoft’s Copilot: Efficient AI Support Meets Strategic Marketing Push - Decoded by ZDNET</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-immersive-gaming-experience-newly-launched-minisforum-portable-screen-156-hd-with-144hz-display-only-189/"><u>Unleash Immersive Gaming Experience: Newly Launched Minisforum Portable Screen – 15.6 HD with 144Hz Display Only $189</u></a></li>
 </ul></div>
 
