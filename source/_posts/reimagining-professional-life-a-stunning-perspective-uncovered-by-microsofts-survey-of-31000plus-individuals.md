@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals"
-date: 2024-09-25T17:57:14.276Z
-updated: 2024-10-03T07:09:13.826Z
+date: 2024-10-04T16:50:57.677Z
+updated: 2024-10-08T16:37:09.615Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-video-vanishing-act-cutting-duration-on-youtube/"><u>[New] 2024 Approved Video Vanishing Act Cutting Duration on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-gif-genius-unleashed-the-best-tools-and-methods-of-memetic-artistry/"><u>[New] In 2024, GIF Genius Unleashed The Best Tools and Methods of Memetic Artistry</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-mindful-moments-elite-yoga-routines-for-serenity/"><u>[Updated] Mindful Moments Elite Yoga Routines for Serenity</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-power-of-niche-hashtags-for-targeted-instagram-reach/"><u>2024 Approved The Power of Niche Hashtags for Targeted Instagram Reach</u></a></li>
-<li><a href="https://video-capture.techidaily.com/civics-challenge-club-leading-political-gaming-series-for-2024/"><u>Civics Challenge Club Leading Political Gaming Series for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/creating-a-great-drivers-license-picture-in-2er-essential-strategies/"><u>Creating a Great Driver's License Picture in 2Er - Essential Strategies</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/customized-web-engagement-with-cookiebot-technology-integration/"><u>Customized Web Engagement with Cookiebot Technology Integration</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/effective-methods-to-retrieve-icloud-backed-up-contact-information/"><u>Effective Methods to Retrieve iCloud Backed-Up Contact Information</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/effortless-mkv-to-sony-format-conversion-the-ultimate-guide-to-viewing-on-sony-televisions/"><u>Effortless MKV-to-Sony Format Conversion: The Ultimate Guide to Viewing on Sony Televisions</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/fix-windows-11-game-capture-issues-troubleshooting-and-workarounds/"><u>Fix Windows 11 Game Capture Issues: Troubleshooting and Workarounds</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-shopping-spree-to-stunning-video-haul-editing-explained-for-2024/"><u>From Shopping Spree to Stunning Video Haul Editing Explained for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/optimal-samsung-utilities-for-seamless-integration-on-windows-87vistaxp-systems/"><u>Optimal Samsung Utilities for Seamless Integration on Windows 8/7/Vista/XP Systems</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/er-transcriber-platform-video-to-writing/"><u>Premier Transcriber Platform Video to Writing</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/seamless-song-shifting-effortless-methods-for-relocating-music-onto-an-sd-card/"><u>Seamless Song Shifting: Effortless Methods for Relocating Music Onto an SD Card</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-x50iplus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor X50i+ to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/top-rated-complimentary-watermarking-tools-on-the-play-store-best-picks/"><u>Top Rated Complimentary Watermarking Tools on the Play Store: Best Picks</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-how-to-erase-songs-efficiently-on-your-iphone/"><u>Ultimate Guide: How to Erase Songs Efficiently on Your iPhone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-how-to-project-zoom-conferences-onto-your-tv-screen/"><u>Ultimate Guide: How to Project Zoom Conferences Onto Your TV Screen</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iding-youtube-playback-tips-for-ios-and-android-for-2024/"><u>[New] Hiding YouTube Playback Tips for iOS and Android for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/can-flipbuilder-facilitate-the-shift-from-traditional-text-pages-to-interactive-electronic-magazines/"><u>Can FlipBuilder Facilitate the Shift From Traditional Text Pages to Interactive Electronic Magazines?</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/copying-additional-media-content-across-web-pages-with-flipbuilder-step-by-step-tutorial/"><u>Copying Additional Media Content Across Web Pages with FlipBuilder - Step by Step Tutorial</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/creating-effective-bookmarks-in-your-ebook-with-flipbuilder-a-comprehensive-guide/"><u>Creating Effective Bookmarks in Your eBook with FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/easy-steps-for-adding-translation-features-in-flipbooks-using-flipbuilder-platform/"><u>Easy Steps for Adding Translation Features In Flipbooks Using FlipBuilder Platform</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/enhancing-readability-enabling-the-magnification-function-on-flipbooks-via-flipbuilder-for-crystal-clear-viewing/"><u>Enhancing Readability - Enabling the Magnification Function on Flipbooks via FlipBuilder for Crystal Clear Viewing</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/enhancing-visuals-with-gradients-a-comprehensive-tutorial-for-adjusting-background-colors-in-flipbook-flipbuilder/"><u>Enhancing Visuals with Gradients: A Comprehensive Tutorial for Adjusting Background Colors in FlipBook (FlipBuilder)</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/free-converter-transform-pdf-files-into-interactive-powerpoint-presentations-on-flipbuilder/"><u>Free Converter: Transform PDF Files Into Interactive PowerPoint Presentations on FlipBuilder</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y200e-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y200e 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-embed-clickable-urls-into-your-flipbook-design-with-flipbuilder/"><u>How to Embed Clickable URLs Into Your Flipbook Design with FlipBuilder</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-10-proplus-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 10 Pro+ 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-flash-moment-of-fame-analysis/"><u>In 2024, Flash Moment of Fame Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-innovative-tips-producing-instagram-ready-loop-videos/"><u>In 2024, Innovative Tips Producing Instagram-Ready Loop Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-google-pixel-fold-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Google Pixel Fold and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-proven-steps-to-create-high-impact-facebook-video-ads/"><u>In 2024, Proven Steps to Create High-Impact Facebook Video Ads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/making-the-invisible-sharing-your-gpt-powered-conversations/"><u>Making the Invisible: Sharing Your GPT-Powered Conversations</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/seamless-transformation-from-pdf-to-stunning-flipbook-your-ultimate-guide-on-flipbuildercom/"><u>Seamless Transformation From PDF to Stunning FlipBook - Your Ultimate Guide on FlipBuilder.com</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-key-to-crisp-clear-cinematography/"><u>The Key to Crisp, Clear Cinematography</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Rivals Ignite Competition: How Four Firms Raised the Stakes at CES - Insights From ZDNet"
-date: 2024-09-25T21:23:45.331Z
-updated: 2024-10-03T09:11:01.038Z
+date: 2024-10-07T17:02:28.653Z
+updated: 2024-10-08T16:26:35.996Z
 tags:
   - office-furniture
 categories:
@@ -30,10 +30,10 @@ Still, I couldn't help but draw comparisons between what companies were announci
 From [satellite communication](https://www.zdnet.com/article/android-phones-will-soon-get-iphone-like-sos-satellite-texting/) to [MagSafe-enabled charging](https://www.zdnet.com/article/iphone-magsafe-style-wireless-charging-could-soon-be-everywhere-including-your-android-phone/) to [5K displays](https://www.zdnet.com/article/samsungs-5k-viewfinity-s9-monitor-is-a-new-apple-studio-display-rival/), the barrage of new announcements is a testament to Apple's product dominance. It's also a battle cry for the market competition that's about to unfold. Here's a rundown of some of the biggest products and services that will go toe-to-toe with Apple in 2023.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Wireless Power Consortium - MagSafe
@@ -51,10 +51,10 @@ That ends with Qi2, [an upcoming wireless charging standard](https://www.zdnet.c
 A visit to WPC's CES booth even showed me how Qi2 will be used to power kitchen appliances, with users able to set their blenders, air fryers, and even coffee machines on top of wireless charging coils to power them. But that expansion won't happen until early 2024, a WPC representative told me.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. HTC - Apple's rumored VR/AR headset
@@ -70,10 +70,10 @@ Long have we waited for Apple's AR/VR headset, and it certainly seems like there
 Fortunately, HTC's latest [Vive XR Elite](https://www.zdnet.com/article/htcs-vive-xr-elite-aims-to-be-the-new-premium-headset-for-the-masses/) is a competent headset that, from our initial hands-on, impresses with a lightweight (625g) and portable build, diopters for glasses-free visibility (Something I'm hoping Apple will do as well. I mean, Tim Cook wears glasses!), and the ability to connect it to a phone or computer wired or wirelessly. Should Apple's upcoming headset be anything similar, HTC may have the leg up with its relatively cheaper [$1,099 price tag](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.vive.com/us/product/vive-xr-elite/overview/) and maturity within the VR space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Qualcomm - Emergency SOS
@@ -89,16 +89,10 @@ Apple introduced satellite communications to the masses when it launched the [iP
 Snapdragon Satellite comes at a time when Apple has noticeably shifted its mobile focus onto more [protective features](https://www.zdnet.com/article/apple-announces-a-brand-new-life-saving-feature-crash-detection/), ones that may not be used every day but can very well [save you from life's most dangerous encounters](https://www.zdnet.com/article/the-iphone-14s-satellite-texting-feature-saves-stranded-snowmobiler-in-alaska/) when needed. However, Qualcomm is going beyond emergency phone calls with two-way messaging. This may mean future smartphones are much more functional even when they're taken outside of carrier coverage zones. 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Samsung - Studio Display
@@ -151,20 +145,20 @@ From my hands-on look at the Samsung monitor, it's clear to me that the company 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-make-collab-videos-and-grow-your-channel/"><u>[Updated] 2024 Approved How to Make Collab Videos And Grow Your Channel?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-most-simple-approach-to-getting-clownfish-voice-changer-on-windows-for-2024/"><u>[Updated] The Most Simple Approach to Getting Clownfish Voice Changer on Windows for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/100-innovadoras-propuestas-de-contenido-para-tu-canaleta-de-youtube/"><u>100 Innovadoras Propuestas De Contenido Para Tu Canaleta De Youtube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/anonymity-in-action-insta-stories-guide/"><u>Anonymity in Action Insta Stories Guide</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/effortless-format-transformation-convert-ts-files-to-mp4-for-free-using-movavi/"><u>Effortless Format Transformation - Convert TS Files to MP4 for Free Using Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/enhancing-education-through-digital-tools-strategies-for-tech-savvy-learning-environments/"><u>Enhancing Education Through Digital Tools: Strategies for Tech-Savvy Learning Environments</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expertly-handling-time-lapse-videos-on-your-gopro-hero-10/"><u>Expertly Handling Time-Lapse Videos on Your GoPro Hero 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-recording-mastery-with-vsdc-reviewed/"><u>In 2024, Screen Recording Mastery with VSDC Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-gopro-karma-performance/"><u>In 2024, The Ultimate Guide to GoPro Karma Performance</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/online-liberazione-video-da-dvb-a-wmv-gratis-con-convertitore-movavi/"><u>Online Liberazione Video Da DVB a WMV Gratis Con Convertitore - Movavi</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-11-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-gopro-camera-leap-hero4-to-hero5-for-2024/"><u>The GoPro Camera Leap (Hero4 to Hero5) for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/top-12-premium-free-options-to-replace-adobe-lightroom-exploring-movavi-and-others/"><u>Top 12 Premium-Free Options to Replace Adobe Lightroom® - Exploring Movavi and Others</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/movavi-mp4wma/"><u>オンラインで自由に利用可能! Movavi MP4とWMAの高速変換ツール</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-clearing-your-browsers-watched-videos-for-2024/"><u>[Updated] Clearing Your Browser's Watched Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-the-art-of-preserving-your-musical-journey-for-2024/"><u>[Updated] Master the Art of Preserving Your Musical Journey for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-free-80s-classic-hits-video-collection-convert-and-download-in-multiple-formats-mp4-avi-mp3/"><u>1. Free 80'S Classic Hits Video Collection: Convert and Download in Multiple Formats (MP4, AVI, MP3)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-elevate-your-game-advanced-ps4-recording-strategies-with-obs/"><u>2024 Approved Elevate Your Game Advanced PS4 Recording Strategies with OBS</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/action-download-top-rated-screen-and-gameplay-capture-tool/"><u>Action Download: Top-Rated Screen & Gameplay Capture Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/charting-a-course-to-a-million-fans-with-this-tutorial/"><u>Charting a Course to a Million Fans with This Tutorial</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/download-content-from-camwhores-channel-a-user-friendly-guide/"><u>Download Content From CamWhores Channel: A User-Friendly Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/extract-and-convert-vine-footage-to-multiple-video-types-mp4-wmv-mov-flv-avi-for-windows-and-mac-users/"><u>Extract and Convert Vine Footage to Multiple Video Types (MP4, WMV, MOV, FLV, AVI) for Windows and Mac Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-a56s-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo A56s 5G?</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/media-file-saver-pro-securely-transfer-your-old-vidsaudios-to-modern-formats-like-mp4-wmv-or-mp3/"><u>Media File Saver Pro: Securely Transfer Your Old Vids/Audios to Modern Formats Like MP4, WMV, or MP3!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/nrk-tv-and-radio-content-download-in-high-quality-formats-mp4-wmv-avi-mp3-aac/"><u>NRK TV & Radio Content: Download in High-Quality Formats (MP4, WMV, AVI, MP3, AAC)</u></a></li>
+<li><a href="https://win-data.techidaily.com/pro-version-unlocked-muse-vue-with-advanced-ant-design-ui-kit-ultimate-dashboard-by-creative-tim/"><u>Pro Version Unlocked: Muse Vue with Advanced Ant Design UI Kit | Ultimate Dashboard by Creative Tim</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-tutorial-how-to-download-and-transcode-buzzfeed-media-in-various-formats-on-windowsmac-systems/"><u>Step-by-Step Tutorial: How to Download and Transcode BuzzFeed Media in Various Formats on Windows/Mac Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-lava-blaze-2-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Lava Blaze 2 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-removing-water-from-iphone-speakers/"><u>Ultimate Guide: Removing Water From iPhone Speakers</u></a></li>
 </ul></div>
 
