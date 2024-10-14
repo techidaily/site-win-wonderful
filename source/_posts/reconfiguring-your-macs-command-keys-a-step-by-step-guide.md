@@ -1,7 +1,7 @@
 ---
 title: "Reconfiguring Your Mac's Command Keys: A Step-by-Step Guide"
-date: 2024-10-01T16:09:24.020Z
-updated: 2024-10-08T16:08:07.330Z
+date: 2024-10-08T10:21:02.268Z
+updated: 2024-10-14T04:54:58.761Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-evolved-sony-bdp-s6700-unveiled/"><u>2024 Approved The Evolved Sony BDP-S6700 Unveiled</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/all-inclusive-answer-bank-for-common-inquiries-on-flipbuildercom/"><u>All-Inclusive Answer Bank for Common Inquiries on flipbuilder.com</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-vivo-y78plus-t1-edition-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Vivo Y78+ (T1) Edition Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/crea-video-flv-da-file-3gp-offline-e-gratuitamente-movavi/"><u>Crea Video FLV Da File 3GP Offline E Gratuitamente - Movavi</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/creative-twists-on-image-captions/"><u>Creative Twists on Image Captions</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/easy-guide-to-image-annotations-in-flipbuilder-create-interactive-digital-photo-albums/"><u>Easy Guide to Image Annotations in FlipBuilder - Create Interactive Digital Photo Albums</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/expert-insights-on-forging-youtube-sponsorship-bonds-using-famebit/"><u>Expert Insights on Forging YouTube Sponsorship Bonds Using FameBit</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-add-bilingual-button-labels-in-flipbuilder-english-and-portuguese/"><u>How to Add Bilingual Button Labels in FlipBuilder (English & Portuguese)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-infinix-zero-30-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Infinix Zero 30 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleash-laughter-and-tears-the-best-instagram-meme-picks/"><u>In 2024, Unleash Laughter and Tears The Best Instagram Meme Picks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/inshots-playlist-prowess-adding-external-music/"><u>InShot's Playlist Prowess Adding External Music</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/integrating-a-call-now-icon-into-your-apps-toolbar-using-flipbuilder-methods/"><u>Integrating a 'Call Now' Icon Into Your App’s Toolbar Using FlipBuilder Methods</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/integrating-soundtracks-into-your-digital-flipbooks-an-expert-guide-with-flipbuildercom/"><u>Integrating Soundtracks Into Your Digital Flipbooks: An Expert Guide with FlipBuilder.com</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/quick-tips-for-editing-igtv-content-to-stand-out-for-2024/"><u>Quick Tips for Editing IGTV Content to Stand Out for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/resizing-and-rescaling-assistance-panels-in-flipbuilder-tips-and-tricks-for-optimization/"><u>Resizing and Rescaling Assistance Panels in FlipBuilder - Tips & Tricks for Optimization</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/transformez-facilement-votre-fichier-audio-wav-en-flv-gratuitement-en-ligne-via-movavi/"><u>Transformez Facilement Votre Fichier Audio WAV en FLV Gratuitement en Ligne via Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boost-channels-and-views-through-savvy-youtube-analysis/"><u>[New] In 2024, Boost Channels and Views Through Savvy YouTube Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-reels-a-prodigys-blueprint/"><u>[New] In 2024, Instagram Reels A Prodigy’s Blueprint</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-ride-safely-leading-helmet-cams-reviewed-for-motorcycling/"><u>2024 Approved Ride Safely Leading Helmet Cams Reviewed for Motorcycling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bots-and-copywriting-why-the-distinction-matters/"><u>Bots and Copywriting: Why the Distinction Matters</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/easy-steps-for-adding-translation-features-in-flipbooks-using-flipbuilder-platform/"><u>Easy Steps for Adding Translation Features In Flipbooks Using FlipBuilder Platform</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/enhancing-readability-enabling-the-magnification-function-on-flipbooks-via-flipbuilder-for-crystal-clear-viewing/"><u>Enhancing Readability - Enabling the Magnification Function on Flipbooks via FlipBuilder for Crystal Clear Viewing</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/enhancing-visuals-with-gradients-a-comprehensive-tutorial-for-adjusting-background-colors-in-flipbook-flipbuilder/"><u>Enhancing Visuals with Gradients: A Comprehensive Tutorial for Adjusting Background Colors in FlipBook (FlipBuilder)</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/free-converter-transform-pdf-files-into-interactive-powerpoint-presentations-on-flipbuilder/"><u>Free Converter: Transform PDF Files Into Interactive PowerPoint Presentations on FlipBuilder</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-embed-clickable-urls-into-your-flipbook-design-with-flipbuilder/"><u>How to Embed Clickable URLs Into Your Flipbook Design with FlipBuilder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-smart-7-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-guide-10-prime-video-communication-apps-on-smartphones/"><u>In 2024, Ultimate Guide 10 Prime Video Communication Apps on Smartphones</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-best-mpa-to-mp3-converter-convert-mpa-audio-files-to-mp3-for-free/"><u>Updated 2024 Approved Best MPA to MP3 Converter Convert MPA Audio Files to MP3 for Free</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-11-compatibility-fixes-for-iphone-sensor-detection-problems-on-iphone-11-devices/"><u>Windows 11 Compatibility Fixes for iPhone Sensor Detection Problems on iPhone 11 Devices</u></a></li>
 </ul></div>
 

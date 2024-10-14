@@ -1,7 +1,7 @@
 ---
 title: "Microsoft & Samsung: The Future Duo Set to Revolutionize Cloud Gaming on the Main Stage"
-date: 2024-10-01T17:07:05.329Z
-updated: 2024-10-08T16:47:25.297Z
+date: 2024-10-09T22:36:24.037Z
+updated: 2024-10-14T06:35:42.604Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -136,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,21 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-masterclass-in-creativity-best-free-3d-text-psds/"><u>[New] Masterclass in Creativity Best Free 3D Text PSDS</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cost-effective-recording-devices-the-ultimate-list-for-2024/"><u>[Updated] Cost-Effective Recording Devices The Ultimate List for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastering-drone-image-shake-reduction/"><u>[Updated] Mastering Drone Image Shake Reduction</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tiktok-tricks-for-striking-visual-results/"><u>2024 Approved TikTok Tricks for Striking Visual Results</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/effortlessly-exchange-files-between-pc-and-mobile-devices-via-google-quick-share-a-comprehensive-guide-by-zdnet/"><u>Effortlessly Exchange Files Between PC and Mobile Devices via Google Quick Share – A Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/elevate-your-films-with-savvy-b-roll-techniques-for-2024/"><u>Elevate Your Films with Savvy B-Roll Techniques for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-civi-3-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Civi 3?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-honor-play-40c-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Honor Play 40C</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/master-your-passwords-in-the-cloud-switching-from-lastpass-to-icloud-on-windows-devices/"><u>Master Your Passwords in the Cloud: Switching From LastPass to iCloud on Windows Devices</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/microsoft-decides-against-adding-sudo-feature-in-windows-server-2025-insights-from-zdnet/"><u>Microsoft Decides Against Adding Sudo Feature in Windows Server 2025: Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/premier-selections-of-twitter-client-software-and-efficient-control-panel-applications/"><u>Premier Selections of Twitter Client Software and Efficient Control Panel Applications</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/seamless-device-transition-with-a-single-click-shift-from-office-desktop-to-private-laptop-effortlessly/"><u>Seamless Device Transition with a Single Click: Shift From Office Desktop to Private Laptop Effortlessly</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/struggling-with-windows-11-updates-simplify-your-experience-by-reverting-to-the-comfort-of-windows-10-like-settings/"><u>Struggling with Windows 11 Updates? Simplify Your Experience by Reverting to the Comfort of Windows 10-Like Settings!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/upcoming-expenses-alert-free-windows-11-updates-ending-in-a-year-with-pricing-details-unveiled-by-zdnet/"><u>Upcoming Expenses Alert: Free Windows 11 Updates Ending in a Year with Pricing Details Unveiled by ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/upcoming-paywall-for-microsoft-windows-10-updates-cost-breakdown-tech-news/"><u>Upcoming Paywall for Microsoft Windows 10 Updates - Cost Breakdown | Tech News</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-editor/"><u>Updated 2024 Approved What Is an AI Editor?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-capture-memorable-moments-check-out-these-top-20-snaps-filters/"><u>[New] Capture Memorable Moments Check Out These Top 20 Snaps Filters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-a-youtube-future-scaling-up-or-staying-independent-for-2024/"><u>[New] Crafting a YouTube Future Scaling Up or Staying Independent for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-sites-for-buying-google-pixel-tunes/"><u>[New] Top Sites for Buying Google Pixel Tunes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-achieving-authenticity-altering-voices-on-instagram-profiles/"><u>[Updated] 2024 Approved Achieving Authenticity Altering Voices on Instagram Profiles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-perfecting-the-art-of-saving-gameplay-footage-on-android/"><u>[Updated] 2024 Approved Perfecting the Art of Saving Gameplay Footage on Android</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/7-easy-guide/"><u>7 - Easy Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/assessing-electric-vs-gasoline-car-durability-which-has-the-longer-life-expectancy/"><u>Assessing Electric Vs. Gasoline Car Durability - Which Has the Longer Life Expectancy?</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/master-video-format-conversion-discover-the-best-2-software-solutions/"><u>Master Video Format Conversion: Discover the Best 2 Software Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-lifespan-top-7-strategies-for-enhanced-battery-durability-in-airpods-and-airpods-pro/"><u>Maximizing Lifespan: Top 7 Strategies for Enhanced Battery Durability in AirPods & AirPods Pro</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-charming-voice-alteration-methods-to-lighten-up-telephone-dialogues/"><u>New In 2024, 10 Charming Voice Alteration Methods to Lighten Up Telephone Dialogues</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/quick-and-easy-file-transfers-between-android-phonestablets-and-desktop-pc/"><u>Quick and Easy File Transfers Between Android Phones/Tablets and Desktop PC</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/quick-steps-to-disconnect-and-erase-apple-account-on-iphone/"><u>Quick Steps to Disconnect and Erase Apple Account on iPhone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/top-5-free-audio-file-conversion-tools-compare-and-choose-the-right-one/"><u>Top 5 FREE Audio File Conversion Tools - Compare and Choose the Right One</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-ranked-ringtones-to-enhance-your-call-experience/"><u>Top-Ranked Ringtones to Enhance Your Call Experience</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-choosing-the-right-software-for-60fps-video-upconverting-tools/"><u>Ultimate Guide: Choosing the Right Software for 60Fps Video Upconverting Tools</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/ultimate-mac-voice-capture-methods-explained-simply/"><u>Ultimate Mac Voice Capture Methods Explained Simply</u></a></li>
 </ul></div>
 

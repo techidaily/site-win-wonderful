@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Innovates Yet Again: New Customer Service Tactics Spark Debate – Is It a Plot Twist or Predictable?"
-date: 2024-10-04T16:46:15.548Z
-updated: 2024-10-08T16:46:19.612Z
+date: 2024-10-11T01:31:58.225Z
+updated: 2024-10-14T00:04:43.293Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,16 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,10 +143,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -157,13 +158,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,22 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-boost-professional-look-adding-borders-to-instagram-content-for-2024/"><u>[New] Boost Professional Look Adding Borders to Instagram Content for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/10-with-a-twist/"><u>10 with a Twist!</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-kinemaster-guidance-for-flawless-green-screen-techniques/"><u>2024 Approved Step-by-Step Kinemaster Guidance for Flawless Green Screen Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlocking-secrets-of-iphone-x-resolving-face-recognition-issues/"><u>2024 Approved Unlocking Secrets of iPhone X Resolving Face Recognition Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-copy-pro-dvd-dvdisodvd/"><u>公式WinX DVD Copy Pro - 高速かつ簡単な無料DVDコピーソフト! DVD/ISO画像・DVDフォルダーへの素早い変換</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/download-microsoft-office-for-free-a-complete-guide-tips-from-zdnet/"><u>Download Microsoft Office for Free: A Complete Guide - Tips From ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-downloading-guide-for-dell-latitude-e6420-driver-updates/"><u>Effortless Downloading Guide for Dell Latitude E6420 Driver Updates</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/exclusive-review-by-zdnet-robust-windowed-tablet-with-inbuilt-stylus-enhances-productivity-on-the-go/"><u>Exclusive Review by ZDNet: Robust Windowed Tablet with Inbuilt Stylus Enhances Productivity on the Go!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-dual-edges-of-microsofts-flagship-tablet-sleek-design-meets-mediocre-ai-integration/"><u>Exploring the Dual Edges of Microsoft's Flagship Tablet: Sleek Design Meets Mediocre AI Integration</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-turning-tiktok-hits-into-personal-cellphone-chimes/"><u>In 2024, Turning TikTok Hits Into Personal Cellphone Chimes</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/microsoft-retains-future-plans-for-windows-control-panel-contrary-to-rumors-zdnet/"><u>Microsoft Retains Future Plans for Windows Control Panel, Contrary to Rumors | ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/still-available-how-to-secure-your-complimentary-windows-11-update/"><u>Still Available: How to Secure Your Complimentary Windows 11 Update!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/transform-your-footage-into-a-gopro-film-classic/"><u>Transform Your Footage Into a GoPro Film Classic</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/understanding-microsofts-new-privacy-concerns-time-for-humor-or-tears-insights-from-zdnet/"><u>Understanding Microsoft's New Privacy Concerns: Time for Humor or Tears? Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uaranteed-method-to-keep-youtube-shorts-out-of-sight-for-2024/"><u>[New] Guaranteed Method to Keep YouTube Shorts Out of Sight for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-chic-characters-cheeky-captions-making-memes/"><u>[New] In 2024, Chic Characters, Cheeky Captions Making Memes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-guide-sharing-multiple-images-and-movies-on-instagram/"><u>[New] Quick Guide Sharing Multiple Images & Movies on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-art-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>[New] The Art of Digital Library Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-tutorial-for-transforming-profile-photographs-on-social-networks/"><u>[Updated] Step-by-Step Tutorial for Transforming Profile Photographs on Social Networks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-finest-no-cost-recording-software-today-for-2024/"><u>[Updated] Unveiling the Finest No-Cost Recording Software Today for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fundamentals-of-visual-communication-through-motion-for-2024/"><u>Fundamentals of Visual Communication Through Motion for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/microsofts-portable-powerhouse-the-surface-go-3-review-versatile-tabletlaptop-yet-lacks-long-lasting-battery-life-zdnetwork-insights/"><u>Microsoft's Portable Powerhouse: The Surface Go 3 Review - Versatile Tablet/Laptop, Yet Lacks Long-Lasting Battery Life | ZDNetwork Insights</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/new-ai-enhancements-in-copilot-powered-laptops-that-could-transform-your-macbook-experience-zdnet/"><u>New AI Enhancements in Copilot-Powered Laptops That Could Transform Your MacBook Experience | ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reconfiguring-your-macs-command-keys-a-step-by-step-guide/"><u>Reconfiguring Your Mac's Command Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reimagining-professional-life-a-stunning-perspective-uncovered-by-microsofts-survey-of-31000plus-individuals/"><u>Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-instructions-for-creating-personalized-email-footers-in-outlook-learn-how-with-zdnet/"><u>Step-by-Step Instructions for Creating Personalized Email Footers in Outlook – Learn How with ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/the-dual-nature-of-microsofts-copilot-efficient-ai-support-meets-strategic-marketing-push-decoded-by-zdnet/"><u>The Dual Nature of Microsoft’s Copilot: Efficient AI Support Meets Strategic Marketing Push - Decoded by ZDNET</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/the-rise-of-prysm-a-revolutionary-contender-against-microsoft-teams-and-zoom-with-lip-reading-capabilities/"><u>The Rise of Prysm: A Revolutionary Contender Against Microsoft Teams & Zoom, with Lip-Reading Capabilities</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/unable-to-locate-pages-often-seen-as-404-in-browsers/"><u>Unable To Locate Pages - Often Seen as '404' In Browsers</u></a></li>
 <li><a href="https://win-wonderful.techidaily.com/unveiling-the-impact-of-generative-ai-on-coding-efficiency-key-findings-from-todays-top-programmers-zdnet/"><u>Unveiling the Impact of Generative AI on Coding Efficiency: Key Findings From Today's Top Programmers | ZDNET</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/unveiling-the-irony-microsofts-satirical-take-on-teams-a-hidden-reality-zdnet/"><u>Unveiling the Irony: Microsoft's Satirical Take on Teams - A Hidden Reality? | ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/windows-10-capture-champions-app-roundup/"><u>Windows 10 Capture Champions App Roundup</u></a></li>
 </ul></div>
 

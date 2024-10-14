@@ -1,7 +1,7 @@
 ---
 title: Is the Keychron Q5 Worth It? A Detailed Examination of Performance Vs. Cost for High-End Tech Enthusiasts
-date: 2024-10-05T16:38:49.534Z
-updated: 2024-10-08T16:02:29.527Z
+date: 2024-10-12T02:38:15.407Z
+updated: 2024-10-14T05:49:26.055Z
 tags:
   - office-furniture
 categories:
@@ -53,10 +53,10 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -67,13 +67,6 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6fdc8402-4415-4c4e-8c7a-91981e5ad8e0%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
@@ -81,10 +74,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -104,10 +97,10 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
@@ -115,6 +108,13 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
 
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternatives to consider
 
@@ -156,17 +156,20 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-fbstream-viewer-extractor-for-2024/"><u>[New] FbStream Viewer Extractor for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-premier-pc-compatible-tiktok-video-enhancers-for-2024/"><u>[New] Premier PC-Compatible TikTok Video Enhancers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-3-best-smartphones-for-recording-video-for-2024/"><u>[Updated] 3 Best Smartphones for Recording Video for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>[Updated] Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-unresponsive-windows-10-a-step-by-step-guide/"><u>Bluetooth Unresponsive – Windows 10: A Step by Step Guide!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/download-microsoft-office-for-free-a-complete-guide-tips-from-zdnet/"><u>Download Microsoft Office for Free: A Complete Guide - Tips From ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/exclusive-review-by-zdnet-robust-windowed-tablet-with-inbuilt-stylus-enhances-productivity-on-the-go/"><u>Exclusive Review by ZDNet: Robust Windowed Tablet with Inbuilt Stylus Enhances Productivity on the Go!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hide-and-stream-avoiding-the-spotlight-on-instagram/"><u>In 2024, Hide and Stream Avoiding the Spotlight on Instagram</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/microsoft-innovates-yet-again-new-customer-service-tactics-spark-debate-is-it-a-plot-twist-or-predictable/"><u>Microsoft Innovates Yet Again: New Customer Service Tactics Spark Debate – Is It a Plot Twist or Predictable?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-fcp-2023-the-ultimate-guide-to-editing-and-mixing-audio-for-video/"><u>New FCP 2023 The Ultimate Guide to Editing and Mixing Audio for Video</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/prevent-crashes-by-avoiding-unnecessary-app-closures-on-android-devices/"><u>Prevent Crashes by Avoiding Unnecessary App Closures on Android Devices</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/understanding-microsofts-new-privacy-concerns-time-for-humor-or-tears-insights-from-zdnet/"><u>Understanding Microsoft's New Privacy Concerns: Time for Humor or Tears? Insights From ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-civics-challenge-club-leading-political-gaming-series/"><u>[New] In 2024, Civics Challenge Club Leading Political Gaming Series</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-captivating-collections-frames-and-organizers-of-the-future/"><u>[Updated] 2024 Approved Captivating Collections Frames & Organizers of the Future</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-evaluating-cybernetic-screen-recorder-functionality-for-2024/"><u>[Updated] Evaluating Cybernetic Screen Recorder Functionality for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-upticks-celebrating-top-10-reddit-discussions/"><u>[Updated] Unmatched Upticks Celebrating Top 10 Reddit Discussions</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/10-with-a-twist/"><u>10 with a Twist!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/breaking-paid-windows-10-updates-coming-soon-from-microsoft-see-estimated-costs-on-zdnet/"><u>Breaking: Paid Windows 10 Updates Coming Soon From Microsoft? See Estimated Costs on ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conquering-the-pitch-black-problem-expert-advice-for-addressing-black-screen-challenges-in-windows-11-systems/"><u>Conquering the Pitch-Black Problem: Expert Advice for Addressing Black Screen Challenges in Windows 11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-audio-downloader-transform-caf-to-mp3-with-quick-hassle-free-service/"><u>Free Audio Downloader: Transform CAF to MP3 with Quick, Hassle-Free Service!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-4g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 4G Phone with Broken Screen</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/microsofts-portable-powerhouse-the-surface-go-3-review-versatile-tabletlaptop-yet-lacks-long-lasting-battery-life-zdnetwork-insights/"><u>Microsoft's Portable Powerhouse: The Surface Go 3 Review - Versatile Tablet/Laptop, Yet Lacks Long-Lasting Battery Life | ZDNetwork Insights</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/new-ai-enhancements-in-copilot-powered-laptops-that-could-transform-your-macbook-experience-zdnet/"><u>New AI Enhancements in Copilot-Powered Laptops That Could Transform Your MacBook Experience | ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reconfiguring-your-macs-command-keys-a-step-by-step-guide/"><u>Reconfiguring Your Mac's Command Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/reimagining-professional-life-a-stunning-perspective-uncovered-by-microsofts-survey-of-31000plus-individuals/"><u>Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-instructions-for-creating-personalized-email-footers-in-outlook-learn-how-with-zdnet/"><u>Step-by-Step Instructions for Creating Personalized Email Footers in Outlook – Learn How with ZDNet</u></a></li>
+<li><a href="https://article-helps.techidaily.com/tailoring-text-features-in-ae-compositions-for-2024/"><u>Tailoring Text Features in AE Compositions for 2024</u></a></li>
 </ul></div>
 

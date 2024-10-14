@@ -1,7 +1,7 @@
 ---
 title: "The Dual Nature of Microsoft’s Copilot: Efficient AI Support Meets Strategic Marketing Push - Decoded by ZDNET"
-date: 2024-10-04T16:24:39.899Z
-updated: 2024-10-08T16:07:34.179Z
+date: 2024-10-09T23:14:36.988Z
+updated: 2024-10-13T21:53:26.169Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-turning-chaos-into-clarity-in-your-burdened-tiktok-archive/"><u>[New] 2024 Approved Turning Chaos Into Clarity in Your Burdened TikTok Archive</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-audio-amplified-todays-hits-backdropping-yt-shorts/"><u>[New] In 2024, Audio Amplified Today's Hits Backdropping YT Shorts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-your-first-zoom-webinar-with-ease/"><u>[Updated] 2024 Approved Mastering Your First Zoom Webinar with Ease</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-revel-in-easy-sound-personalization-techniques-for-pubg-gaming/"><u>[Updated] Revel in Easy Sound Personalization Techniques for PUBG Gaming</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>2024 Approved How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/free-streaming-and-downloading-of-naruto-episodes-in-various-formats-mp4-mov-avi/"><u>Free Streaming & Downloading of Naruto Episodes in Various Formats - MP4, MOV, AVI</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/get-the-latest-from-abc7-free-downloads-of-top-stories-in-mp4-wmv-and-avi-formats/"><u>Get the Latest From ABC7 - Free Downloads of Top Stories in MP4, WMV & AVI Formats</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/get-video-downloading-software-amped-wizard-hd-pro-for-your-mac-macos/"><u>Get Video Downloading Software: Amped Wizard HD Pro - For Your Mac, macOS</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/get-your-daily-dose-of-humor-cracked-comedy-clips-for-desktop-and-laptop-lovers/"><u>Get Your Daily Dose of Humor - Cracked Comedy Clips for Desktop & Laptop Lovers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-asus-rog-phone-8-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Asus ROG Phone 8 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-pova-6-pro-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Pova 6 Pro 5G FRP Without Computer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pod-battle-royale-does-apple-outperform-samsung-in-hearing-tech/"><u>Pod Battle Royale: Does Apple Outperform Samsung in Hearing Tech?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-12-herramientas-de-edicion-de-videoblog-ideales-para-crear-contenido-impactante/"><u>Top 12 Herramientas De Edición De Videoblog Ideales Para Crear Contenido Impactante</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-banishing-dark-pixels-from-youtube-views/"><u>[New] In 2024, Banishing Dark Pixels From YouTube Views</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-into-the-world-of-simple-nft-production-techniques/"><u>[Updated] Step Into the World of Simple NFT Production Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-nokia-130-music-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Nokia 130 Music.</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/conversao-e-transformacao-ao-vivo-em-flac-de-dts-sem-cobranca-site-gratis-da-movavi/"><u>Conversão E Transformação Ao Vivo Em FLAC De DTS Sem Cobrança - Site Grátis Da Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-oled-mechanisms-for-enhanced-visual-experience/"><u>Demystifying OLED Mechanisms for Enhanced Visual Experience</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/get-your-favorite-episodes-and-shows-download-video-content-for-pcmac-for-free/"><u>Get Your Favorite Episodes & Shows: Download Video Content for PC/Mac for Free</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/get-your-favorite-films-and-tunes-instantly-with-einthusan-downloader/"><u>Get Your Favorite Films & Tunes Instantly with Einthusan Downloader</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-convert-russian-accelerator-lessons-into-multiple-formats-mp4-avi-and-mp3/"><u>How to Convert Russian Accelerator Lessons Into Multiple Formats: MP4, AVI, and MP3</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-chucklecanvas-draw-hilarious-social-media-art/"><u>In 2024, ChuckleCanvas Draw Hilarious Social Media Art</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-complete-voice-change-blueprint-using-morphvox/"><u>In 2024, The Complete Voice Change Blueprint Using MorphVOX</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/perfect-guide-to-matching-your-spotify-tracks-and-playslists-with-musicbee/"><u>Perfect Guide to Matching Your Spotify Tracks and Playslists with MusicBee</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/rai-tv-video-grabber-seamless-raitv-content-acquisition-for-shows-and-films/"><u>Rai TV Video Grabber - Seamless Rai.tv Content Acquisition for Shows and Films</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-obtaining-lenovo-x22n-drivers-for-optimal-performance/"><u>Step-by-Step Guide to Obtaining Lenovo X22n Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-converting-huffpost-video-content-into-mp4-or-avi-format-for-pcs-and-mac/"><u>Step-by-Step Guide: Converting HuffPost Video Content Into MP4 or AVI Format for PCs & Mac</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-downloading-blizzcon-footage-as-mp4mov-files-on-macos-and-windows-systems/"><u>Step-by-Step Guide: Downloading BlizzCon Footage as MP4/MOV Files on macOS & Windows Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Save Big: Secure Your MS Office 2019 on PC/Mac at Just $25 – Top Deal!"
-date: 2024-10-03T16:37:54.303Z
-updated: 2024-10-08T16:32:21.519Z
+date: 2024-10-11T01:56:32.715Z
+updated: 2024-10-14T02:16:00.088Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-constructing-compelling-trailer-crafts/"><u>[Updated] Constructing Compelling Trailer Crafts</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/7-easy-guide/"><u>7 - Easy Guide</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/conversion-de-fichiers-tga-vers-png-pour-gratis-un-outil-facile-dutilisation-sur-le-site-de-movavi/"><u>Conversion De Fichiers TGA Vers PNG Pour Gratis – Un Outil Facile D'utilisation Sur Le Site De Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/cutting-edge-evaluation-scythes-quiet-revolution-in-air-conditioning-with-the-mugen-6-lineup-including-black-edition/"><u>Cutting-Edge Evaluation: Scythe's Quiet Revolution in Air Conditioning with the Mugen 6 Lineup, Including Black Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/enhancing-meeting-productivity-zooms-audio-and-video-recording-tips-for-2024/"><u>Enhancing Meeting Productivity Zoom's Audio & Video Recording Tips for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-auditory-waves-of-iphones-podcast-streaming-for-2024/"><u>Navigating the Auditory Waves of iPhone's Podcast Streaming for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/optimal-samsung-utilities-for-seamless-integration-on-windows-87vistaxp-systems/"><u>Optimal Samsung Utilities for Seamless Integration on Windows 8/7/Vista/XP Systems</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/quick-and-easy-file-transfers-between-android-phonestablets-and-desktop-pc/"><u>Quick and Easy File Transfers Between Android Phones/Tablets and Desktop PC</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/quick-steps-to-disconnect-and-erase-apple-account-on-iphone/"><u>Quick Steps to Disconnect and Erase Apple Account on iPhone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-lava-blaze-2-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Lava Blaze 2 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/top-10-zero-cost-video-software-solutions-for-an-enhanced-digital-entertainment-journey/"><u>Top 10 Zero-Cost Video Software Solutions for an Enhanced Digital Entertainment Journey</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/top-5-free-audio-file-conversion-tools-compare-and-choose-the-right-one/"><u>Top 5 FREE Audio File Conversion Tools - Compare and Choose the Right One</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/ultimate-guide-how-to-project-zoom-conferences-onto-your-tv-screen/"><u>Ultimate Guide: How to Project Zoom Conferences Onto Your TV Screen</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/ultimate-mac-voice-capture-methods-explained-simply/"><u>Ultimate Mac Voice Capture Methods Explained Simply</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-false-numbers-the-risks-of-manipulated-youtube-viewership/"><u>[Updated] 2024 Approved Unveiling False Numbers The Risks of Manipulated YouTube Viewership</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-virtual-producers-showdown-for-2024/"><u>[Updated] Virtual Producer's Showdown for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/xcopy/"><u>「Xcopy 操作ガイド：指定したディレクトリやファイルを排除する方法」</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-download-free-mp4-converter-tool-for-windows-live-movie-captioning/"><u>1. 'Download Free MP4 Converter Tool for Windows Live Movie Captioning'</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-optimize-your-quick-access-jump-list-improvements-in-emeditor-text-editor/"><u>1. Optimize Your Quick Access: Jump List Improvements in EmEditor Text Editor</u></a></li>
+<li><a href="https://fox-place.techidaily.com/1-transfer-your-tunes-top-techniques-for-syncing-iphone-music-with-your-computer/"><u>1. Transfer Your Tunes: Top Techniques for Syncing iPhone Music with Your Computer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/add-cinematic-shake-to-images-using-ps/"><u>Add Cinematic Shake to Images Using PS</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/discover-how-emeditors-latest-beta-update-enhances-your-text-editing-experience/"><u>Discover How EmEditor's Latest Beta Update Enhances Your Text Editing Experience</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/emeditor-text-editor-select-and-edit-multiple-sections-simultaneously-with-ctrl-key/"><u>EmEditor Text Editor - Select & Edit Multiple Sections Simultaneously with Ctrl Key</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/emeditor-text-editor-automatically-convert-and-save-files-as-line-feed-format/"><u>EmEditor Text Editor: Automatically Convert & Save Files As Line-Feed Format</u></a></li>
+<li><a href="https://fox-links.techidaily.com/envisioned-masterpieces-iphones-top-10-photographic-rules/"><u>Envisioned Masterpieces IPhone's Top 10 Photographic Rules</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/error-detection-and-correction-guide-mastery-with-emeditor-version-13/"><u>Error Detection & Correction Guide: Mastery with EmEditor Version 13</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-prevent-webpreview-related-crashes-while-modifying-bar-positions-in-emeditor/"><u>How to Prevent WebPreview-Related Crashes While Modifying Bar Positions in EmEditor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-deciding-on-live-stream-software-streamlabs-vs-obs-comparison/"><u>In 2024, Deciding on Live Stream Software Streamlabs Vs. OBS Comparison</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-android-tools-5-leading-ps2-emulator-apps/"><u>In 2024, Essential Android Tools 5 Leading PS2 Emulator Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/quick-and-effortless-anime-music-video-amv-creator-simple-video-to-amv-transformation/"><u>Quick & Effortless Anime Music Video (AMV) Creator – Simple Video-to-AMV Transformation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-marchapril-launch-date-revealed-for-ipads-what-to-expect-according-to-zdnet/"><u>Upcoming March/April Launch Date Revealed for iPads : What to Expect, According to ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/upgrading-configuration-shift-from-ini-files-to-windows-registry-using-emeditor/"><u>Upgrading Configuration: Shift From .ini Files to Windows Registry Using EmEditor</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Creating Personalized Email Footers in Outlook – Learn How with ZDNet
-date: 2024-10-03T16:22:55.855Z
-updated: 2024-10-08T16:59:03.966Z
+date: 2024-10-07T19:35:54.452Z
+updated: 2024-10-13T18:01:24.088Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +152,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-creativity-iosandroids-best-caption-apps/"><u>[Updated] Capture Creativity IOS/Android’s Best Caption Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-mac-studio-with-state-of-the-art-screen-and-voice-logging-for-2024/"><u>[Updated] Top Mac Studio with State-of-the-Art Screen and Voice Logging for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>2024 Approved Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-converting-and-downloading-your-favorite-acast-podcasts-in-various-audio-formats/"><u>Comprehensive Guide: Converting and Downloading Your Favorite Acast Podcasts in Various Audio Formats</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/convert-itpro-tv-educational-videos-into-various-formats-mp4-mov-mp3-wav-for-pc-and-mac-users/"><u>Convert ITPro TV Educational Videos Into Various Formats (MP4, MOV, MP3, WAV) for PC and Mac Users</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/download-smoothly-with-videoweed-master-cross-platform-macwindows-support/"><u>Download Smoothly with VideoWeed Master – Cross-Platform Mac/Windows Support</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-integrating-youtube-videos-into-facebook-sharing-options/"><u>[New] 2024 Approved Integrating YouTube Videos Into Facebook Sharing Options</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-redesigning-the-perception-of-sony-s3700-review/"><u>[Updated] Redesigning the Perception of Sony S3700 Review</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comprehensive-tutorial-on-downgrading-your-macs-operating-system-from-ventura-to-monterey-or-older-oses/"><u>Comprehensive Tutorial on Downgrading Your Mac's Operating System From Ventura To Monterey or Older OSes</u></a></li>
 <li><a href="https://win-wonderful.techidaily.com/easy-videoaudio-downloader-pro-supports-all-popular-formats-like-mp4-wmv-avi-flv-mov-plus-high-quality-audio-options/"><u>Easy Video/Audio Downloader Pro: Supports All Popular Formats Like MP4, WMV, AVI, FLV, MOV - Plus High-Quality Audio Options!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-to-insert-print-ready-sections-on-interactive-pages-with-easywebtools/"><u>How to Insert Print-Ready Sections on Interactive Pages with EasyWebTools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-13-mini-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 13 mini Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-most-effective-5-image-editing-programs-on-iphone-x-7-8/"><u>In 2024, Most Effective 5 Image Editing Programs on iPhone (X, 7, 8)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-cameras-for-extreme-adventure-pursuits/"><u>In 2024, Optimal Cameras for Extreme Adventure Pursuits</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pickus-triumph-in-android-photo-editing-a-comprehensible-review-for-2024/"><u>PickU's Triumph in Android Photo Editing – A Comprehensible Review for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/saving-setup-configurations-for-next-time-when-making-a-flipbook-with-flipbuilder/"><u>Saving Setup Configurations for Next Time When Making a FlipBook with FlipBuilder</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-incorporating-audio-elements-into-your-language-learning-textbook-pages-with-flipbuilder/"><u>Step-by-Step Guide: Incorporating Audio Elements Into Your Language Learning Textbook Pages with FlipBuilder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-most-advanced-virtual-classrooms-not-udemys-offspring-for-2024/"><u>The Most Advanced Virtual Classrooms, Not Udemy's Offspring for 2024</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/top-strategies-for-converting-mod-files-into-avi-format-quickly/"><u>Top Strategies for Converting MOD Files Into AVI Format Quickly</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/turn-pdf-documents-into-searchable-editable-text-while-preserving-page-design-for-free-learn-how-with-flipbuildercom/"><u>Turn PDF Documents Into Searchable, Editable Text While Preserving Page Design for Free [Learn How with FlipBuilder.com]</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/free-streaming-and-downloading-of-naruto-episodes-in-various-formats-mp4-mov-avi/"><u>Free Streaming & Downloading of Naruto Episodes in Various Formats - MP4, MOV, AVI</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/get-the-latest-from-abc7-free-downloads-of-top-stories-in-mp4-wmv-and-avi-formats/"><u>Get the Latest From ABC7 - Free Downloads of Top Stories in MP4, WMV & AVI Formats</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/get-video-downloading-software-amped-wizard-hd-pro-for-your-mac-macos/"><u>Get Video Downloading Software: Amped Wizard HD Pro - For Your Mac, macOS</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/get-your-daily-dose-of-humor-cracked-comedy-clips-for-desktop-and-laptop-lovers/"><u>Get Your Daily Dose of Humor - Cracked Comedy Clips for Desktop & Laptop Lovers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1724766881397-macx-video-converter-pro/"><u>MacX Video Converter Pro: 直接於線上購入</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-up-your-photo-game-with-these-ingenious-pixlr-techniques-for-2024/"><u>Step Up Your Photo Game with These Ingenious Pixlr Techniques for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/who-takes-the-lead-in-live-action-footage-hero-4-or-x1000v-in-2024/"><u>Who Takes The Lead In Live-Action Footage, Hero 4 or X1000V, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Still Available: How to Secure Your Complimentary Windows 11 Update!"
-date: 2024-10-06T16:44:29.368Z
-updated: 2024-10-08T16:49:04.110Z
+date: 2024-10-08T04:22:24.639Z
+updated: 2024-10-14T10:21:08.677Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,16 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,18 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>[New] 2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ioneering-maker-tools-for-your-next-ios-or-android-video/"><u>[New] Pioneering Maker Tools For Your Next iOS or Android Video</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2023-access-exclusive-beats-for-free-fb-downloader/"><u>[Updated] 2023 Access Exclusive Beats for Free - FB Downloader</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-get-it-right-a-beginners-guide-to-iphone-screen-shots/"><u>[Updated] 2024 Approved Get It Right A Beginner's Guide to iPhone Screen Shots</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1-free-80s-classic-hits-video-collection-convert-and-download-in-multiple-formats-mp4-avi-mp3/"><u>1. Free 80'S Classic Hits Video Collection: Convert and Download in Multiple Formats (MP4, AVI, MP3)</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/download-content-from-camwhores-channel-a-user-friendly-guide/"><u>Download Content From CamWhores Channel: A User-Friendly Guide</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/extract-and-convert-vine-footage-to-multiple-video-types-mp4-wmv-mov-flv-avi-for-windows-and-mac-users/"><u>Extract and Convert Vine Footage to Multiple Video Types (MP4, WMV, MOV, FLV, AVI) for Windows and Mac Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-zte-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on ZTE Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Plus 3 Ways To Unlock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-simplified-guide-for-ios-users-transforming-images-to-pdfs/"><u>In 2024, Simplified Guide for iOS Users Transforming Images to PDFs</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/media-file-saver-pro-securely-transfer-your-old-vidsaudios-to-modern-formats-like-mp4-wmv-or-mp3/"><u>Media File Saver Pro: Securely Transfer Your Old Vids/Audios to Modern Formats Like MP4, WMV, or MP3!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/nrk-tv-and-radio-content-download-in-high-quality-formats-mp4-wmv-avi-mp3-aac/"><u>NRK TV & Radio Content: Download in High-Quality Formats (MP4, WMV, AVI, MP3, AAC)</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-tutorial-how-to-download-and-transcode-buzzfeed-media-in-various-formats-on-windowsmac-systems/"><u>Step-by-Step Tutorial: How to Download and Transcode BuzzFeed Media in Various Formats on Windows/Mac Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-content-extraction-mastered-discover-the-5-apps/"><u>[New] 2024 Approved FB Content Extraction Mastered - Discover the #5 Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-social-blade-approach-to-analyzing-youtube-video-performance-metrics/"><u>[New] 2024 Approved The Social Blade Approach to Analyzing YouTube Video Performance Metrics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-essential-guide-to-using-obs-for-youtube-and-twitch/"><u>[Updated] 2024 Approved Essential Guide to Using OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sweet-slumber-scenes-video-critique/"><u>2024 Approved Sweet Slumber Scenes Video Critique</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-smooth-authentication-on-iphone-x-mending-face-id/"><u>2024 Approved Unlocking Smooth Authentication on iPhone X Mending Face ID</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/exclusive-review-by-zdnet-robust-windowed-tablet-with-inbuilt-stylus-enhances-productivity-on-the-go/"><u>Exclusive Review by ZDNet: Robust Windowed Tablet with Inbuilt Stylus Enhances Productivity on the Go!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/microsoft-innovates-yet-again-new-customer-service-tactics-spark-debate-is-it-a-plot-twist-or-predictable/"><u>Microsoft Innovates Yet Again: New Customer Service Tactics Spark Debate – Is It a Plot Twist or Predictable?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-cutting-edge-hardware/"><u>Tom's Tech Reviews: Expert Insights on Cutting-Edge Hardware</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/understanding-microsofts-new-privacy-concerns-time-for-humor-or-tears-insights-from-zdnet/"><u>Understanding Microsoft's New Privacy Concerns: Time for Humor or Tears? Insights From ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/unveiling-the-irony-microsofts-satirical-take-on-teams-a-hidden-reality-zdnet/"><u>Unveiling the Irony: Microsoft's Satirical Take on Teams - A Hidden Reality? | ZDNet</u></a></li>
 </ul></div>
 

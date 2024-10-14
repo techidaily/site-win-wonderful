@@ -1,7 +1,7 @@
 ---
 title: "Breaking: Paid Windows 10 Updates Coming Soon From Microsoft? See Estimated Costs on ZDNet"
-date: 2024-10-03T16:12:40.702Z
-updated: 2024-10-08T16:33:49.920Z
+date: 2024-10-08T09:20:14.524Z
+updated: 2024-10-13T16:35:15.428Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,34 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-determining-view-counts-direct-effect-on-creator-revenue/"><u>[New] In 2024, Determining View Count's Direct Effect on Creator Revenue</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-quicksnap-firefox-enhancements/"><u>[New] QuickSnap Firefox Enhancements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-10-high-quality-screen-recorders-for-teaching-professionals-for-2024/"><u>[New] Top 10 High-Quality Screen Recorders for Teaching Professionals for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/addressing-non-playing-video-tracks/"><u>Addressing Non-Playing Video Tracks</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/como-convertir-archivos-m4v-a-wmv-gratis-online-con-el-servicio-de-conversion-de-movavi/"><u>Cómo Convertir Archivos M4V a WMV Gratis Online Con El Servicio De Conversión De Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/effortless-format-transformation-convert-ts-files-to-mp4-for-free-using-movavi/"><u>Effortless Format Transformation - Convert TS Files to MP4 for Free Using Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-connection-problems-with-the-steam-network/"><u>Expert Advice on Overcoming Connection Problems with the Steam Network</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/online-liberazione-video-da-dvb-a-wmv-gratis-con-convertitore-movavi/"><u>Online Liberazione Video Da DVB a WMV Gratis Con Convertitore - Movavi</u></a></li>
-<li><a href="https://win-dash.techidaily.com/rtx-2080-super-graphics-card-drivers-download-plus-update-for-windows-11-and-windows-10/"><u>RTX 2080 Super Graphics Card Drivers Download + Update for Windows 11 and Windows 10</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/top-12-premium-free-options-to-replace-adobe-lightroom-exploring-movavi-and-others/"><u>Top 12 Premium-Free Options to Replace Adobe Lightroom® - Exploring Movavi and Others</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-enhancing-photos-with-cropping-tools/"><u>[Updated] Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavi-mp4-to-flv/"><u>「Movaviで簡単な無料オンラインビデオコンバート – MP4 to FLV」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-public-domain-game-music-downloads/"><u>2024 Approved Public Domain Game Music Downloads</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mxfweb-movavi/"><u>完全無償でMXFを変換してくれるWebベースツール – Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/movavi-m4a/"><u>網路版Movavi M4A無需付費預下載 - 提高音質的線上選擇</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/all-inclusive-answer-bank-for-common-inquiries-on-flipbuildercom/"><u>All-Inclusive Answer Bank for Common Inquiries on flipbuilder.com</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/cambiar-archivo-de-pelicula-mov-a-mp4-online-sin-coste-alguno-moovavi/"><u>Cambiar Archivo De Película MOV a MP4 Online Sin Coste Alguno - Moovavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/crea-video-flv-da-file-3gp-offline-e-gratuitamente-movavi/"><u>Crea Video FLV Da File 3GP Offline E Gratuitamente - Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-techniques-for-linking-and-broadcasting-chatgpt-exchanges/"><u>Effective Techniques for Linking and Broadcasting ChatGPT Exchanges</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-strategies-for-streamlining-your-android-home-screen-with-app-organizers/"><u>Efficient Strategies for Streamlining Your Android Home Screen with App Organizers</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1726218550175-movavi/"><u>Movavi 비디오 수정기: 가장 우아한 지원 형식에 대한 안내</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-zero-budget-big-impact-the-best-free-online-video-editors-for-2024/"><u>New Zero Budget, Big Impact The Best Free Online Video Editors for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-missing-displays-on-gpus-by-nvidia/"><u>Rectifying Missing Displays on GPUs by NVIDIA</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-17-window-based-software-solutions-for-high-quality-stichotype-pano-images-by-movavi/"><u>The Best 17 Window-Based Software Solutions for High-Quality Stichotype Pano Images by Movavi</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/transformez-facilement-votre-fichier-audio-wav-en-flv-gratuitement-en-ligne-via-movavi/"><u>Transformez Facilement Votre Fichier Audio WAV en FLV Gratuitement en Ligne via Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-how-to-add-titles-in-final-cut-pro-x/"><u>Updated In 2024, How to Add Titles in Final Cut Pro X</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Add Bilingual Button Labels in FlipBuilder (English & Portuguese)
-date: 2024-10-02T16:40:53.918Z
-updated: 2024-10-08T17:04:51.123Z
+date: 2024-10-12T03:54:06.608Z
+updated: 2024-10-13T22:57:04.974Z
 tags:
   - product
 categories:
@@ -119,16 +119,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![easy steps of convert pdf to ebook](https://www.flipbuilder.com/page-flip-ebook/images/steps_for_convert_pdf_to_digital_magazine.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Discount information
@@ -136,16 +130,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Flash Player Required
@@ -153,10 +141,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Refund Policy
@@ -166,10 +154,10 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -187,19 +175,20 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-androids-prime-video-calls-top-10-cost-free-options-for-2024/"><u>[New] Android's Prime Video Calls Top 10 Cost-Free Options for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-youtube-presence-with-these-8-free-courses/"><u>[New] In 2024, Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-guide-to-mass-downloading-a-complete-look-at-tiktok-archives/"><u>[Updated] Guide to Mass Downloading A Complete Look at TikTok Archives</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-peeling-back-sharex-critical-analysis-and-alternatives/"><u>[Updated] Peeling Back ShareX Critical Analysis & Alternatives</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-spark-20-pro-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Spark 20 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/how-windows-11-dominates-the-gaming-scene-surpassing-windows/"><u>How Windows 11 Dominates the Gaming Scene, Surpassing Windows</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-m34-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy M34 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-top-fifa-film-analysis-on-youtube-infographics/"><u>In 2024, Top FIFA Film Analysis on YouTube Infographics</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ipad-versus-ipad-air-understanding-their-unique-traits/"><u>IPad Versus iPad Air – Understanding Their Unique Traits</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/upcoming-expenses-alert-free-windows-11-updates-ending-in-a-year-with-pricing-details-unveiled-by-zdnet/"><u>Upcoming Expenses Alert: Free Windows 11 Updates Ending in a Year with Pricing Details Unveiled by ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/upcoming-paywall-for-microsoft-windows-10-updates-cost-breakdown-tech-news/"><u>Upcoming Paywall for Microsoft Windows 10 Updates - Cost Breakdown | Tech News</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/will-microsoft-begin-fee-based-support-for-windows-10-updates-estimated-cost-breakdown-zdnet/"><u>Will Microsoft Begin Fee-Based Support for Windows 10 Updates ? Estimated Cost Breakdown | ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/windows-11-subscription-fees-microsoft-announces-paid-update-plan-starting-next-year-details-inside/"><u>Windows 11 Subscription Fees: Microsoft Announces Paid Update Plan Starting Next Year - Details Inside</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/windows-control-panel-microsoft-retains-key-feature-despite-rumors-technewstoday/"><u>Windows Control Panel: Microsoft Retains Key Feature Despite Rumors | TechNewsToday</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-zoom-in-on-zucks-users-rapidly-pinpoint-profiles/"><u>[New] 2024 Approved Zoom-In on Zuck's Users Rapidly Pinpoint Profiles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-easy-screen-capture-app-w10-edition-for-2024/"><u>[New] Easy Screen Capture App, W10 Edition for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-youtube-to-mpeg-compression-guide/"><u>[Updated] Expert Advice YouTube to MPEG Compression Guide</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-say-goodbye-to-messy-inboxes-with-a-simple-strategy-manage-and-organize-without-extra-emails/"><u>1. Say Goodbye to Messy Inboxes with a Simple Strategy: Manage and Organize Without Extra Emails!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-direct-stream-from-fb-to-whatsapp-group-chat/"><u>2024 Approved Direct Stream From FB to WhatsApp Group Chat</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-exploring-imovies-automated-size-control/"><u>2024 Approved Exploring iMovie's Automated Size Control</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/automate-your-spreadsheet-skills-using-chatgpt-for-excel-formulas-essential-tips-from-techexperts/"><u>Automate Your Spreadsheet Skills Using ChatGPT for Excel Formulas - Essential Tips From TechExperts</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/beyond-coding-simplification-the-transformative-role-of-generative-ai-in-merging-low-code-and-no-code-realms-zdnet/"><u>Beyond Coding Simplification: The Transformative Role of Generative AI in Merging Low Code and No Code Realms | ZDNET</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/cost-efficient-upgrades-for-enhanced-surface-pro-performance-a-step-by-step-guide-featuring-insights-from-zdnet/"><u>Cost-Efficient Upgrades for Enhanced Surface Pro Performance - A Step-by-Step Guide Featuring Insights From ZDNet</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/embracing-the-hybrid-workplace-microsoft-launches-innovative-accessories-for-modern-workflows-insights-from-zdnet/"><u>Embracing the Hybrid Workplace: Microsoft Launches Innovative Accessories for Modern Workflows - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-linking-method-for-youtube-video-content/"><u>In 2024, Facebook Linking Method for YouTube Video Content</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mending-corrupted-video-data-on-phones/"><u>Mending Corrupted Video Data on Phones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/proven-methods-to-improve-macro-video-quality-and-aesthetics-for-2024/"><u>Proven Methods to Improve Macro Video Quality and Aesthetics for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/top-ranking-surface-computers-in-depth-analysis-and-comparison-by-tech-experts-zdnet/"><u>Top-Ranking Surface Computers : In-Depth Analysis & Comparison by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-karaoke-systems-the-ultimate-picks/"><u>Top-Rated Karaoke Systems: The Ultimate Picks</u></a></li>
 </ul></div>
 

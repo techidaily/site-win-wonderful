@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Impact of Generative AI on Coding Efficiency: Key Findings From Today's Top Programmers | ZDNET"
-date: 2024-10-05T16:39:12.711Z
-updated: 2024-10-08T16:40:35.173Z
+date: 2024-10-13T07:18:48.767Z
+updated: 2024-10-13T19:37:36.797Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +196,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-affordable-webinar-tools-for-efficient-recording/"><u>[Updated] Affordable Webinar Tools for Efficient Recording</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-morphvox-modification-handbook/"><u>[Updated] Comprehensive MorphVOX Modification Handbook</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-elevate-your-iphone-photography-with-advanced-hdr-methods/"><u>2024 Approved Elevate Your iPhone Photography with Advanced HDR Methods</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/action-download-top-rated-screen-and-gameplay-capture-tool/"><u>Action Download: Top-Rated Screen & Gameplay Capture Tool</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/bing-chat-introduces-dark-mode-enable-the-update-with-ease-tech-insights/"><u>Bing Chat Introduces Dark Mode: Enable the Update with Ease | Tech Insights</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/capture-and-share-perfection-top-picks-for-ultimate-screen-capture-tools/"><u>Capture & Share Perfection: Top Picks for Ultimate Screen Capture Tools</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-unpacking-the-microsoft-exchange-server-cyberattack-insights-from-zdnet/"><u>Comprehensive Guide: Unpacking the Microsoft Exchange Server Cyberattack - Insights From ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-configure-mt4-and-mt5-accounts-for-running-a-local-trade-copier-tm-together-with-any-other-forex-ea-by-mt4copier-guide/"><u>How To Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/introducing-the-new-era-of-functionality-with-splash-20-update/"><u>Introducing the New Era of Functionality with Splash 2.0 Update</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-update-enhance-your-network-speed-with-the-newest-usb-30-gigabit-ethernet-driver-for-windows/"><u>Latest Update: Enhance Your Network Speed with the Newest USB 3.0 Gigabit Ethernet Driver for Windows</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic-6-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic 6</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-succeed-in-screen-recording-detailed-orderly-guide-for-2024/"><u>[New] Succeed in Screen Recording Detailed, Orderly Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-elevate-your-online-presence-editing-expertise-for-haul-vlogs-for-2024/"><u>[Updated] Elevate Your Online Presence Editing Expertise for Haul Vlogs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-storyboard-to-screenplay-filmmaking-essentials/"><u>[Updated] From Storyboard to Screenplay Filmmaking Essentials</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/10-with-a-twist/"><u>10 with a Twist!</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/breaking-paid-windows-10-updates-coming-soon-from-microsoft-see-estimated-costs-on-zdnet/"><u>Breaking: Paid Windows 10 Updates Coming Soon From Microsoft? See Estimated Costs on ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-poco-c65-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Poco C65 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/microsoft-retains-future-plans-for-windows-control-panel-contrary-to-rumors-zdnet/"><u>Microsoft Retains Future Plans for Windows Control Panel, Contrary to Rumors | ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-level-splitting-tools-beyond-xsplit-for-2024/"><u>Next-Level Splitting Tools Beyond Xsplit for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/still-available-how-to-secure-your-complimentary-windows-11-update/"><u>Still Available: How to Secure Your Complimentary Windows 11 Update!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-puzzle-of-sudden-computer-turnoffs-a-comprehensive-guide-based-on-personal-experience/"><u>Troubleshooting the Puzzle of Sudden Computer Turnoffs - A Comprehensive Guide Based on Personal Experience</u></a></li>
 </ul></div>
 
