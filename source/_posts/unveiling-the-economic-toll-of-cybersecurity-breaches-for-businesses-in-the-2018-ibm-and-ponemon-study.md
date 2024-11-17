@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Economic Toll of Cybersecurity Breaches for Businesses in the 2018 IBM and Ponemon Study
-date: 2024-10-26T23:10:50.619Z
-updated: 2024-10-31T21:17:48.846Z
+date: 2024-11-10T00:12:47.161Z
+updated: 2024-11-16T20:11:39.514Z
 tags:
   - product
   - antivirus
@@ -66,10 +66,10 @@ Based on analysis of 11 companies experiencing a mega breach over the past two y
 For mega breaches, the biggest expense category was costs associated with lost business, which was estimated at nearly $118 million for breaches of 50 million records – almost a third of the total cost of a breach this size. IBM analyzed the publicly reported costs of several high profile mega breaches, and found the reported numbers are often less than the average cost found in the study.4 This is likely due to publicly reported cost often being limited to direct costs, such as technology and services to recover from the breach, legal and regulatory fees, and reparations to customers.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Impacts the Average Cost of a Data Breach?
@@ -90,10 +90,10 @@ The amount of lost or stolen records also impacts the cost of a breach, costing 
 This year for the first time, the report examined the effect of security automation tools which use artificial intelligence, machine learning, analytics and orchestration to augment or replace human intervention in the identification and containment of a breach. The analysis found that organizations that had extensively deployed automated security technologies saved over $1.5 million on the total cost of a breach ($2.88 million, compared to $4.43 million for those who had not deployed security automation.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Regional and Industry Differences
@@ -106,10 +106,10 @@ The study also compared the cost of data breaches in different industries and re
 [![cost of data breach by countries](https://www.malwarefox.com/wp-content/uploads/2019/04/cost-of-data-breach-regions.png)](https://www.malwarefox.com/wp-content/uploads/2019/04/cost-of-data-breach-regions.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One major factor impacting the cost of a data breach in the U.S. was the reported cost of lost business, which was $4.2 million – more than the total average cost of a breach globally, and more than double the amount of “lost business costs” compared to any other region surveyed. One major factor impacting lost business costs is customer turnover in the aftermath of a breach; in fact a recent [IBM / Harris poll report](https://www.prnewswire.com/news-releases/new-survey-finds-deep-consumer-anxiety-over-data-privacy-and-security-300630067.html) found that  75 percent of consumers in the U.S. say that they will not do business with companies that they do not trust to protect their data .
@@ -126,10 +126,10 @@ One major factor impacting the cost of a data breach in the U.S. was the reporte
 Source: IBM
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -157,20 +157,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos/"><u>[Updated] Top Tips to Flawlessly Integrate Timely Text in Your FB Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-examination-of-googles-ar-sticker-technology-and-alternatives/"><u>2024 Approved In-Depth Examination of Google's AR Sticker Technology & Alternatives</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-premier-windows-camcorders-guide/"><u>2024 Approved The Premier Windows Camcorders Guide</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/comparative-analysis-of-os-vulnerabilities-why-windows-is-targeted-by-malware-more-frequently-than-mac-and-linux/"><u>Comparative Analysis of OS Vulnerabilities: Why Windows Is Targeted by Malware More Frequently Than Mac and Linux</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210553420-9783947982653-dianetik-entwicklung-einer-wissenschaft/"><u>Dianetik - Entwicklung einer Wissenschaft | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inshot-unveiled-effortless-laptoppc-video-editing/"><u>Inshot Unveiled Effortless Laptop/PC Video Editing</u></a></li>
-<li><a href="https://facebook.techidaily.com/inside-look-facebooks-organizational-layout-plan/"><u>Inside Look: Facebook's Organizational Layout Plan</u></a></li>
-<li><a href="https://article-helps.techidaily.com/perfecting-the-synergy-of-visuals-and-voiceovers-in-videos/"><u>Perfecting the Synergy of Visuals and Voiceovers in Videos</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/prostaglandin-analogs-such-as-latanoprost-increase-uveoscleral-outflow-to-reduce-iop-and-are-often-prescribed-once-daily-due-to-their-long-duration-of-actio84/"><u>Prostaglandin Analogs, Such as Latanoprost, Increase Uveoscleral Outflow to Reduce IOP and Are Often Prescribed Once Daily Due to Their Long Duration of Action.</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/repair-guide-eradicating-severe-system-damage-caused-by-quadruple-infections-with-malwarefox/"><u>Repair Guide: Eradicating Severe System Damage Caused by Quadruple Infections with MalwareFox</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/restore-your-accidentally-deleted-files-and-folders-on-windows-1011/"><u>Restore Your Accidentally Deleted Files and Folders on Windows 10/11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-download-of-hp-laserjet-pro-m452dn-software-and-drivers-for-smooth-printing/"><u>Secure Download of HP LaserJet Pro M452dn Software & Drivers for Smooth Printing</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-guide-setting-up-work-folders-and-managing-several-sync-shares-in-windows-server/"><u>Step-by-Step Guide: Setting Up Work Folders & Managing Several Sync Shares in Windows Server</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/windows-10-disk-management-guide-retrieving-and-restoring-corruptedmissing-partitions/"><u>Windows 10 Disk Management Guide: Retrieving and Restoring Corrupted/Missing Partitions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovation-unleashed-experience-our-6-best-signature-removers/"><u>[New] Innovation Unleashed – Experience Our 6 Best Signature Removers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-5-playstation-vr-games-to-look-forward-to/"><u>[New] Top 5 Playstation VR Games to Look Forward To</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-wit-whisperer-visual-snap/"><u>[Updated] 2024 Approved Wit Whisperer Visual Snap</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-instant-inspector-quick-photo-explorer-for-win10/"><u>[Updated] In 2024, Instant Inspector - Quick Photo Explorer for Win10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-game-plan-for-thriving-as-a-livestreamer-on-youtube/"><u>[Updated] The Game Plan for Thriving as a Livestreamer on YouTube</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/deciphering-and-deleting-fake-apple-safety-notifications-with-expert-tips-from-malwarefox/"><u>Deciphering and Deleting Fake Apple Safety Notifications with Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/guia-facil-de-crear-una-imagen-del-disco-duro-para-copias-de-seguridad-en-windows-11107/"><u>Guía Fácil De Crear Una Imagen Del Disco Duro Para Copias De Seguridad en Windows 11/10/7</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/guia-paso-a-paso-para-transferir-hdd-a-ssd-menor-en-windows-versiones-11-8-y-7/"><u>Guía Paso a Paso Para Transferir HDD a SSD Menor en Windows Versiones 11, 8 Y 7</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mastering-the-art-of-retrieving-data-from-unformatted-sd-cards-with-expert-techniques/"><u>Mastering the Art of Retrieving Data From Unformatted SD Cards with Expert Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-there-isnt-a-chatgpt-windows-clientits-malware/"><u>No, There Isn't a ChatGPT Windows Client—It's Malware</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/troubleshooting-the-critical-system-error-in-windows-11-6-effective-fixes/"><u>Troubleshooting the CRITICAL SYSTEM ERROR in Windows 11: 6 Effective Fixes</u></a></li>
 </ul></div>
 
