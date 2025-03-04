@@ -1,7 +1,7 @@
 ---
 title: "Windows 10上的視覺化映射工具: MirrorFolder 软件介紹"
-date: 2025-02-09T20:34:24.933Z
-updated: 2025-02-12T18:33:58.796Z
+date: 2025-03-02T18:19:58.488Z
+updated: 2025-03-04T01:47:51.988Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f2d9a0df990eba4814a4cbbd3bd0e18b69c14ac68946c8a64a7d7c631b9a2a8c.jpg
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -38,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -73,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -97,25 +85,13 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -148,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,24 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-pro-level-mobile-media-capture-iphone-and-androids-top-5-apps/"><u>[New] Pro-Level Mobile Media Capture IPhone and Android's Top 5 Apps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-formulating-fascinating-film-moments/"><u>[Updated] In 2024, Formulating Fascinating Film Moments</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/10-with-a-twist/"><u>10 with a Twist!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-8-must-have-macbook-wallpaper-apps/"><u>2024 Approved 8 Must-Have MacBook Wallpaper Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-clipcrafter-window-edition/"><u>2024 Approved ClipCrafter Window Edition</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/breaking-paid-windows-10-updates-coming-soon-from-microsoft-see-estimated-costs-on-zdnet/"><u>Breaking: Paid Windows 10 Updates Coming Soon From Microsoft? See Estimated Costs on ZDNet</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enregistreur-video-de-screenshots-libre-screencapturepro/"><u>Enregistreur Vidéo De Screenshots Libre – ScreenCapturePro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-apple-vision-pro-a-2-day-test-drive-and-top-3-insights-insiders-report/"><u>Exploring the Apple Vision Pro: A 2-Day Test Drive & Top 3 Insights - Insider's Report</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-v30-lite-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Vivo V30 Lite 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/microsofts-portable-powerhouse-the-surface-go-3-review-versatile-tabletlaptop-yet-lacks-long-lasting-battery-life-zdnetwork-insights/"><u>Microsoft's Portable Powerhouse: The Surface Go 3 Review - Versatile Tablet/Laptop, Yet Lacks Long-Lasting Battery Life | ZDNetwork Insights</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/new-ai-enhancements-in-copilot-powered-laptops-that-could-transform-your-macbook-experience-zdnet/"><u>New AI Enhancements in Copilot-Powered Laptops That Could Transform Your MacBook Experience | ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/reconfiguring-your-macs-command-keys-a-step-by-step-guide/"><u>Reconfiguring Your Mac's Command Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/reimagining-professional-life-a-stunning-perspective-uncovered-by-microsofts-survey-of-31000plus-individuals/"><u>Reimagining Professional Life: A Stunning Perspective Uncovered by Microsoft's Survey of 31,000+ Individuals</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/step-by-step-instructions-for-creating-personalized-email-footers-in-outlook-learn-how-with-zdnet/"><u>Step-by-Step Instructions for Creating Personalized Email Footers in Outlook – Learn How with ZDNet</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/still-available-how-to-secure-your-complimentary-windows-11-update/"><u>Still Available: How to Secure Your Complimentary Windows 11 Update!</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/the-dual-nature-of-microsofts-copilot-efficient-ai-support-meets-strategic-marketing-push-decoded-by-zdnet/"><u>The Dual Nature of Microsoft’s Copilot: Efficient AI Support Meets Strategic Marketing Push - Decoded by ZDNET</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-essential-e-steps-your-pathway-from-preparation-to-production-in-a-reviews-channel-for-2024/"><u>The Essential E-Steps Your Pathway From Preparation to Production in a Reviews Channel for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-magix-vpx-a-comprehensive-analysis/"><u>[Updated] In 2024, Unveiling Magix VPX A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-independent-artists-guide-to-personalized-visual-tricks/"><u>[Updated] Independent Artists' Guide to Personalized Visual Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/7-engaging-virtual-experiences-to-fortify-design-expertise/"><u>7 Engaging Virtual Experiences to Fortify Design Expertise</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieving-optimal-performance-on-avatar-frontiers-of-pandora-tips-for-fixing-lag-and-increasing-fps/"><u>Achieving Optimal Performance on Avatar: Frontiers of Pandora - Tips for Fixing Lag and Increasing FPS</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/assessing-potential-hazards-when-verifying-encrypted-wallet-funds-insights-from-yl-computings-secure-tools/"><u>Assessing Potential Hazards When Verifying Encrypted Wallet Funds - Insights From YL Computing's Secure Tools</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/demonic-blade-devastation-stunning-backgrounds-and-wallpapers-by-yl-computing-your-guide-to-intense-visual-themes/"><u>Demonic Blade Devastation: Stunning Backgrounds & Wallpapers by YL Computing - Your Guide to Intense Visual Themes</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/diagnosing-and-fixing-network-card-issues-expert-strategies-by-yl-software/"><u>Diagnosing and Fixing Network Card Issues: Expert Strategies by YL Software</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/easy-driver-installation-for-enhanced-performance-learn-how-with-expert-advice-from-yl-computing-solutions/"><u>Easy Driver Installation for Enhanced Performance: Learn How With Expert Advice From YL Computing Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reactivate-or-undisable-your-blocked-instagram-account-effectively/"><u>How To Reactivate or Undisable Your Blocked Instagram Account Effectively</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-become-a-master-at-kinemaster-strategies-features-and-top-online-gaming-rivals/"><u>In 2024, Become a Master at KineMaster Strategies, Features, and Top Online Gaming Rivals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>In 2024, Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mastering-cryptocurrency-taxation-essential-tips-from-yl-computing-and-software-experts/"><u>Mastering Cryptocurrency Taxation: Essential Tips From YL Computing & Software Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/transform-your-footage-expert-advice-for-creating-polished-professional-movies-for-2024/"><u>Transform Your Footage Expert Advice for Creating Polished, Professional Movies for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshooting-tips-how-to-fix-common-issues-with-your-scanner-guidance-from-yl-computing/"><u>Troubleshooting Tips: How to Fix Common Issues with Your Scanner - Guidance From YL Computing</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/troubleshooting-tips-repairing-your-damaged-pc-power-unit-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: Repairing Your Damaged PC Power Unit - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultra-portable-and-reliable-wi-fi-solution-discover-the-ourlink-u631-dongle/"><u>Ultra Portable & Reliable Wi-Fi Solution - Discover the Ourlink U631 Dongle</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/understanding-common-gpu-problems-and-solutions-with-yl-software-insights/"><u>Understanding Common GPU Problems and Solutions with YL Software Insights</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/yl-software-explained-a-step-by-step-tutorial-on-checking-system-component-health/"><u>YL Software Explained: A Step-by-Step Tutorial on Checking System Component Health</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/yl-software-guide-choosing-the-right-wallet-for-your-cryptocurrency-needs-types-and-features-unveiled/"><u>YL Software Guide: Choosing the Right Wallet for Your Cryptocurrency Needs – Types and Features Unveiled</u></a></li>
 </ul></div>
 

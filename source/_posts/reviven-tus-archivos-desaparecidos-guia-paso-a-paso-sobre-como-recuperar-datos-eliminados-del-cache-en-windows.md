@@ -1,7 +1,7 @@
 ---
 title: "Reviven Tus Archivos Desaparecidos: Guía Paso a Paso Sobre Cómo Recuperar Datos Eliminados Del Caché en Windows"
-date: 2025-02-10T00:44:21.939Z
-updated: 2025-02-13T05:57:19.102Z
+date: 2025-02-27T18:28:59.066Z
+updated: 2025-03-03T16:23:15.874Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c885557e06e23ea74d7f6110b.jpg
@@ -27,10 +27,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -89,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -113,10 +105,6 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
 Vous pouvez utiliser AOMEI Backupper Standard comme logiciel de sauvegarde NAS Buffalo pour sauvegarder des fichiers et exécuter cette tâche facilement et automatiquement. Par défaut, il ne sauvegarde que les fichiers modifiés pour économiser du temps de sauvegarde et de l'espace disque. Si vous souhaitez réduire davantage la taille de l'image de sauvegarde, vous pouvez utiliser des niveaux de compression, la sauvegarde sectorielle intelligente, le fractionnement automatique, etc.
@@ -133,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,10 +154,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,18 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-5-helmet-action-cameras-for-motorcycle/"><u>[New] 2024 Approved Top 5 Helmet Action Cameras For Motorcycle</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-instant-guide-how-to-safely-gratisly-download-vlc-on-macos/"><u>[New] Instant Guide How to Safely, Gratisly Download VLC on MacOS</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-stream-google-meet-to-youtube-step-by-step-guide-for-2024/"><u>[Updated] How To Stream Google Meet to YouTube [Step-by-Step Guide] for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-best-4k-gaming-laptops-unleash-game-potential/"><u>2024 Approved Best 4K Gaming Laptops - Unleash Game Potential</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/1726228027308-mkv-movavi/"><u>網路上無需付費 MKV格式播放解除保護 - Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/mp4-3gp-movavi/"><u>網路直接自由下載 MP4 到 3GP - 使用 Movavi 優化的影片格式轉換工具</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/aviswf-movavi/"><u>効果的なオンライン無料AVIからSWFへの直接変換ツール - Movavi</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/as-melhores-ferramentas-de-edicao-de-video-mkv-escolhidas-pelos-profissionais-para-computadores-pcmac-picks-do-ano-2n24/"><u>As Melhores Ferramentas De Edição De Vídeo MKV Escolhidas Pelos Profissionais Para Computadores PC/Mac - Picks Do Ano 2N24</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/avaliacao-comparativa-dos-melhores-aplicativos-de-fala-para-202c-opcoes-livres-e-premium/"><u>Avaliação Comparativa Dos Melhores Aplicativos De Fala Para 202C [Opções Livres E Premium]</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/digital-dialogues-redefining-communication-in-modern-times/"><u>Digital Dialogues: Redefining Communication in Modern Times</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/downloadable-mpg-avi-media-translator-at-no-cost-with-movavi/"><u>Downloadable MPG-AVI Media Translator at No Cost with Movavi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unleashing-maximum-power-a-comprehensive-review-of-the-top-rated-18k-mah-m-mooc-starter-kit-for-your-car/"><u>Unleashing Maximum Power: A Comprehensive Review of the Top-Rated 18K mAh M MOOC Starter Kit for Your Car</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-effortless-android-screenshot-and-screen-record/"><u>[New] In 2024, Effortless Android Screenshot & Screen Record</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-2023-top-6-facebook-lite-video-downloaders/"><u>[Updated] 2024 Approved 2023 | Top 6 Facebook Lite Video Downloaders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-cross-platform-video-playback-free-solutions-guide/"><u>2024 Approved Mastering Cross-Platform Video Playback Free Solutions Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/best-graphics-card-driver-software-essential-updates-for-optimal-performance/"><u>Best Graphics Card Driver Software: Essential Updates for Optimal Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-nordvpn-vs-surfshark-determining-the-ideal-vpn-choice-for-your-needs-zdnet/"><u>Comparing NordVPN Vs. SurfShark: Determining the Ideal VPN Choice for Your Needs | ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/digital-footprints-on-instagram-effective-photo-watermarking-for-2024/"><u>Digital Footprints on Instagram Effective Photo Watermarking for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/do-you-really-need-antivirus-protection-unveiling-essentials-with-yl-computing/"><u>Do You Really Need Antivirus Protection? Unveiling Essentials with YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-the-smart-ring-doorbell-plus-is-it-worth-it/"><u>Expert Review of the Smart Ring Doorbell Plus - Is It Worth It?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96368572-9781446350041-ghostly-tales-on-land-and-sea/"><u>Ghostly Tales on Land and Sea | Free Book</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-ensure-your-gpu-works-flawlessly-with-windows-tips-from-yl-computing/"><u>How To Ensure Your GPU Works Flawlessly with Windows: Tips From YL Computing</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/master-your-web-experience-essential-browser-setup-advice-by-yl-software/"><u>Master Your Web Experience: Essential Browser Setup Advice by YL Software</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/mastering-data-safety-with-windows-groovy-backups-discover-two-easy-techniques/"><u>Mastering Data Safety with Windows Groovy Backups: Discover Two Easy Techniques!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/maximize-performance-with-easy-steps-to-upgrade-disk-capacity-in-vmware-vsphere-systems/"><u>Maximize Performance with Easy Steps to Upgrade Disk Capacity in VMware vSphere Systems</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/quick-fixes-for-faster-boot-times-insights-by-yl-software-experts/"><u>Quick Fixes for Faster Boot Times: Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/understanding-memory-faults-expert-analysis-by-yl-computings-team-at-yl-software/"><u>Understanding Memory Faults: Expert Analysis by YL Computing's Team at YL Software</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/understanding-your-graphics-card-is-specialized-driver-support-necessary-guidance-by-yl-software-experts/"><u>Understanding Your Graphics Card: Is Specialized Driver Support Necessary? - Guidance by YL Software Experts</u></a></li>
 </ul></div>
 
